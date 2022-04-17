@@ -14,8 +14,12 @@
           xmlHttp.send( null );
           return xmlHttp.responseText;
       }
+      
+      var json = httpGet(url);
+      var obj = JSON.parse(json);
+      
       var t = document.getElementById("resp");
-      t.innerHTML = httpGet(url);
+      t.innerHTML = obj.description.toString();
     </script>
   </body>
 </html>
