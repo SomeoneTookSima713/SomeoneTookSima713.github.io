@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ServerStatus</title>
+  </head>
+  <body>
+    <font id="resp"></font>
+    <script type="text/javascript">
+      var url = "https://eu.mc-api.net/v3/server/info/simacig.aternos.me";
+      function httpGet(theUrl)
+      {
+          var xmlHttp = new XMLHttpRequest();
+          xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+          xmlHttp.send( null );
+          return xmlHttp.responseText;
+      }
+      var t = document.getElementById("resp");
+      t.innerHTML = httpGet(url);
+    </script>
+  </body>
+</html>
