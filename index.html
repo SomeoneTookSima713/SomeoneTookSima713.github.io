@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Der Schlag ans Hoftor</title>
+
+    <link rel="preload" href="static/wgsl/sprite.wgsl" as="fetch" crossorigin="anonymous" />
+    <link rel="preload" href="static/wgsl/sky.wgsl" as="fetch" crossorigin="anonymous" />
+    <link rel="preload" href="static/assets/test.png" as="fetch" crossorigin="anonymous" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="Stylesheet" href="static/fontawesome/css/fontawesome.min.css" />
+    <link rel="Stylesheet" href="static/fontawesome/css/solid.min.css" />
+    <link rel="Stylesheet" href="static/css/main.css" />
+    <link rel="Stylesheet" href="static/css/panes.css" />
+    
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <div id="loading_screen">
+        <p class="position-fixed top-50 start-50 translate-middle">
+            Laden...
+        </p>
+    </div>
+    <div class="card position-fixed top-0 end-0 z-2">
+        <div class="card-body hstack gap-2">
+            <ul class="nav nav-pills" id="mainTabs" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="main-tab-nav nav-link active" id="game-tab" data-bs-toggle="pill" data-bs-target="#game-tab-pane" type="button" role="tab" aria-controls="game-tab-pane" aria-selected="true">
+                        <i class="fa-solid fa-gamepad"></i>
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="main-tab-nav nav-link disabled" id="grammar-tab" data-bs-toggle="pill" data-bs-target="#grammar-tab-pane" type="button" role="tab" aria-controls="grammar-tab-pane" aria-selected="false">
+                        <i class="fa-solid fa-file-lines"></i>
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="main-tab-nav nav-link disabled" id="math-tab" data-bs-toggle="pill" data-bs-target="#math-tab-pane" type="button" role="tab" aria-controls="math-tab-pane" aria-selected="false">
+                        <i class="fa-solid fa-calculator"></i>
+                    </button>
+                </li>
+            </ul>
+            <div class="vr"></div>
+            <button class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#settings-modal">
+                <i class="fa-solid fa-gear"></i>
+            </button>
+        </div>
+    </div>
+    <div class="modal fade" id="settings-modal" tabindex="-1" aria-labelledby="settings-modal-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="settings-modal-label">Einstellungen</h4>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Schließen"></button>
+                </div>
+                <div class="modal-body">
+                    <h5 class="modal-title">Feedback und Bug-Reports</h5>
+                    Vielen dank für die Benutzung unserer Webseite! Falls Sie Feedback zur Verbesserung der bereitgestellten Inhalte haben oder Ihnen ein Fehler aufgefallen ist, schreiben Sie uns gerne <a href="https://jens-spahn-fordert.de/">hier</a>!
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" onclick="alert('Dieser Schließen-Knopf wird zurzeit gewartet. Bitte benutzen Sie den kleineren Knopf in der oberen rechten Ecke. Wir danken Ihnen für Ihr Verständnis.\n\nMit freundlichen Grüßen\nDie Schließen-Knopf-Wartungscrew');">Schließen</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card position-fixed bottom-0 start-50 w-25 mb-3 translate-middle-x z-3" id="messages">
+        <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">Card text or something.</p>
+            <button class="btn btn-primary" onclick="disable_msgbox()">Ok</button>
+        </div>
+    </div>
+    <div class="main-tab-content tab-content" id="mainTabsContent">
+        <div class="main-tab tab-pane show active selected-main-tab" id="game-tab-pane" role="tabpanel" aria-labelledby="game-tab" tabindex="0">
+            <div id="game_container">
+                <canvas id="game_canvas"></canvas>
+            </div>
+            <div class="card position-fixed bottom-0 end-0" id="game_description_card">
+                <div class="card-body">
+                    <p class="card-text">
+                        ehguheirug
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="main-tab tab-pane" id="grammar-tab-pane" role="tabpanel" aria-labelledby="grammar-tab" tabindex="0">
+            <div class="card position-absolute top-50 start-50 translate-middle">
+                <div class="card-body">
+                    <h5 class="card-title">Grammatik-Test</h5>
+                    <h6 class="card-subtitle text-body-secondary">Korrigiere den Satz!</h6>
+                    <hr>
+                    <p class="card-text">
+                        Könnte ich noch andere Luft schmecken, <br>als die des Gefängnisses.
+                    </p>
+                    <textarea class="card-text form-control mb-2" id="grammer_corrected_sentence" rows="3" spellcheck=false style="resize: none;"></textarea>
+                    <div class="card-text">
+                        <div class="d-flex flex-sm-column flex-md-row justify-content-start gap-3">
+                            <button class="p-2 btn btn-secondary" id="check_grammar_fix_btn">Überprüfen</button>
+                            <div class="p-2" data-tries-left="3" id="check_grammar_fix_tries">
+                                <span class="my-auto me-2">Versuche übrig:</span>
+                                <span class="tries-left-dot my-auto align-middle"></span>
+                                <span class="tries-left-dot my-auto align-middle"></span>
+                                <span class="tries-left-dot my-auto align-middle"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main-tab tab-pane" id="math-tab-pane" role="tabpanel" aria-labelledby="math-tab" tabindex="0">
+            <div class="card position-absolute top-50 start-50 translate-middle">
+                <div class="card-body">
+                    <h5 class="card-title">Mathe-Test</h5>
+                    <h6 class="card-subtitle text-body-secondary">Berechne! Runde auf zwei Nachkommastellen, falls notwendig.</h6>
+                    <hr>
+                    <p class="card-text" id="math_container">
+                        
+                    </p>
+                    <input type="text" class="card-text form-control mb-2" id="math_answer">
+                    <div class="card-text">
+                        <div class="d-flex flex-sm-column flex-md-row justify-content-start gap-3">
+                            <button class="p-2 btn btn-secondary" id="check_math_answer_btn">Überprüfen</button>
+                            <div class="p-2" data-tries-left="3" id="check_math_answer_tries">
+                                <span class="my-auto me-2">Versuche übrig:</span>
+                                <span class="tries-left-dot my-auto align-middle"></span>
+                                <span class="tries-left-dot my-auto align-middle"></span>
+                                <span class="tries-left-dot my-auto align-middle"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="static/js/main.js"></script>
+    <script type="module">
+        const module = await import('./static/pac_game/pac_game.js');
+        module.default().then(() => console.log("Point&Click adventure game WASM finished executing!"));
+    </script>
+</body>
+</html>

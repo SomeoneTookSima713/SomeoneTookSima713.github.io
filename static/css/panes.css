@@ -1,0 +1,99 @@
+#game-tab-pane {
+    background: #22223b;
+}
+
+#game_container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#game_canvas {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: black;
+}
+
+#game_description_card {
+    translate: 100% 0;
+    transition: translate 0.5s ease;
+}
+
+#game_description_card.enabled {
+    translate: 0 0;
+}
+
+#grammar-tab-pane {
+    background: #E3D5CA;
+}
+
+.tries-left-dot {
+    display: inline-block;
+    margin: 0.25em auto;
+    padding: 0;
+    border: none;
+    border-radius: 50%;
+    width: 0.75em;
+    height: 0.75em;
+    background: #e5383b;
+    transition: background 0.33s ease;
+}
+
+[data-tries-left="3"] > .tries-left-dot:nth-child(1 of .tries-left-dot),
+[data-tries-left="3"] > .tries-left-dot:nth-child(2 of .tries-left-dot),
+[data-tries-left="3"] > .tries-left-dot:nth-child(3 of .tries-left-dot) {
+    background: #729b79;
+}
+
+[data-tries-left="2"] > .tries-left-dot:nth-child(1 of .tries-left-dot),
+[data-tries-left="2"] > .tries-left-dot:nth-child(2 of .tries-left-dot) {
+    background: #729b79;
+}
+
+[data-tries-left="1"] > .tries-left-dot:nth-child(1 of .tries-left-dot) {
+    background: #729b79;
+}
+
+@keyframes inputShakeAnim {
+    0% {
+        translate: 0% 0%;
+        border-color: #e5383b;
+    }
+    16.7% {
+        translate: -3% 0%;
+        border-color: #e5383b;
+    }
+    33.3% {
+        translate: 3% 0%;
+        border-color: #e5383b;
+    }
+    50% {
+        translate: -3% 0%;
+        border-color: #e5383b;
+    }
+    66.7% {
+        translate:  3% 0%;
+        border-color: #e5383b;
+    }
+    83.3% {
+        translate: 0% 0%;
+        border-color: inherit;
+    }
+}
+
+.shake-anim {
+    animation-name: inputShakeAnim;
+    animation-duration: 0.8s;
+}
+
+#math-tab-pane {
+    background: #9a8c98;
+}
+
+#math_container .katex .katex-html {
+    display: none;
+}

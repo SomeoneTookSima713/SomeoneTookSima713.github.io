@@ -1,0 +1,545 @@
+{
+    "main": {
+        "sprites": [
+            {
+                "texture": "gras",
+                "pos": {
+                    "offset": [0, 20],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 0.5]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 100
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [32, -19],
+                    "anchor": [0, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 25
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [18, -18],
+                    "anchor": [0, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 25
+                }
+            },
+            {
+                "texture": "baum2",
+                "pos": {
+                    "offset": [0, -19],
+                    "anchor": [0, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 25
+                }
+            },
+            {
+                "texture": "baum2",
+                "pos": {
+                    "offset": [-32, -18],
+                    "anchor": [1, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 25
+                }
+            },
+            {
+                "texture": "baum2",
+                "pos": {
+                    "offset": [-18, -19.5],
+                    "anchor": [1, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": -27
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [0, -18.5],
+                    "anchor": [1, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 25
+                }
+            },
+            {
+                "texture": "tor",
+                "pos": {
+                    "offset": [0, -5],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 100
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [2, -1.5],
+                    "anchor": [1, 1],
+                    "pivot": [1.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 30
+                }
+            },
+            {
+                "texture": "links",
+                "pos": {
+                    "offset": [4, 0],
+                    "anchor": [0, 0.5],
+                    "pivot": [0, 0.5]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 4
+                },
+                "dependency": "has_knocked"
+            }
+        ],
+        "interactable_areas": [
+            {
+                "pos": {
+                    "offset": [0, -8],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1.0]
+                },
+                "size": [25, 30],
+                "description": "Tor<br>Dagegenschlagen",
+                "actions": {
+                    "play_audio": "static/assets/door-knocking.mp3",
+                    "set_flag": ["has_knocked", true]
+                }
+            },
+            {
+                "pos": {
+                    "offset": [4, 0],
+                    "anchor": [0, 0.5],
+                    "pivot": [0, 0.5]
+                },
+                "size": [4, 8],
+                "description": "Nach links gehen",
+                "actions": {
+                    "change_scene": "path"
+                },
+                "dependency": "has_knocked"
+            }
+        ]
+    },
+    "path": {
+        "sprites": [
+            {
+                "texture": "gras",
+                "pos": {
+                    "offset": [0, 14.5],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 0.5]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 100
+                }
+            },
+            {
+                "texture": "pfad",
+                "pos": {
+                    "offset": [8, 0],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 60
+                }
+            },
+            {
+                "texture": "haus",
+                "pos": {
+                    "offset": [14, -16.5],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": -10
+                }
+            },
+            {
+                "texture": "haus",
+                "pos": {
+                    "offset": [-6, -15],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 14
+                }
+            },
+            {
+                "texture": "haus",
+                "pos": {
+                    "offset": [18, -14],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": -15
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [5, -1.5],
+                    "anchor": [1, 1],
+                    "pivot": [1.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 30
+                }
+            },
+            {
+                "texture": "baum2",
+                "pos": {
+                    "offset": [22, -14],
+                    "anchor": [0, 1],
+                    "pivot": [0.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 15
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [4, -8],
+                    "anchor": [0, 1],
+                    "pivot": [0.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 23
+                }
+            },
+            {
+                "texture": "baum2",
+                "pos": {
+                    "offset": [-4, 0],
+                    "anchor": [0, 1],
+                    "pivot": [0.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 30
+                }
+            }
+        ],
+        "interactable_areas": [
+            {
+                "pos": {
+                    "offset": [5, -10],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1.0]
+                },
+                "size": [35, 16],
+                "description": "Zum Dorf gehen",
+                "actions": {
+                    "change_scene": "village"
+                }
+            }
+        ]
+    },
+    "village": {
+        "sprites": [
+            {
+                "texture": "gras",
+                "pos": {
+                    "offset": [0, 25],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 0.5]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 100
+                }
+            },
+            {
+                "texture": "haus_front",
+                "pos": {
+                    "offset": [0, 3],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 55
+                }
+            },
+            {
+                "texture": "person1",
+                "pos": {
+                    "offset": [0, 0],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 30
+                }
+            },
+            {
+                "texture": "rechts",
+                "pos": {
+                    "offset": [-4, 0],
+                    "anchor": [1, 0.5],
+                    "pivot": [0, 0.5]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 4
+                },
+                "dependency": "has_spoken"
+            }
+        ],
+        "interactable_areas": [
+            {
+                "pos": {
+                    "offset": [0, 0],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": [30, 30],
+                "description": "Mit dem besorgten Mann sprechen",
+                "actions": {
+                    "show_msgbox": {
+                        "title": "Besorger Mann",
+                        "text": "Oh nein! Wieso hast du nur an das Hoftor geschlagen?",
+                        "afterwards": {
+                            "show_msgbox": {
+                                "title": "Besorger Mann",
+                                "text": "Jetzt wirst du vom Hofbesitzer angezeigt werden!",
+                                "afterwards": {
+                                    "set_flag": ["has_spoken", true]
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "pos": {
+                    "offset": [-4, 0],
+                    "anchor": [1, 0.5],
+                    "pivot": [0, 0.5]
+                },
+                "size": [4, 8],
+                "description": "Zurückschauen",
+                "actions": {
+                    "change_scene": "path2"
+                }
+            }
+        ]
+    },
+    "path2": {
+        "sprites": [
+            {
+                "texture": "gras",
+                "pos": {
+                    "offset": [0, 14.5],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 0.5]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 100
+                }
+            },
+            {
+                "texture": "pfad",
+                "pos": {
+                    "offset": [8, 0],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 60
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [5, -1.5],
+                    "anchor": [1, 1],
+                    "pivot": [1.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 30
+                }
+            },
+            {
+                "texture": "baum2",
+                "pos": {
+                    "offset": [22, -14],
+                    "anchor": [0, 1],
+                    "pivot": [0.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 15
+                }
+            },
+            {
+                "texture": "baum1",
+                "pos": {
+                    "offset": [4, -8],
+                    "anchor": [0, 1],
+                    "pivot": [0.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 23
+                }
+            },
+            {
+                "texture": "baum2",
+                "pos": {
+                    "offset": [-4, 0],
+                    "anchor": [0, 1],
+                    "pivot": [0.0, 1.0]
+                },
+                "size": {
+                    "type": "FixedWidth",
+                    "value": 30
+                }
+            },
+            {
+                "texture": "person2",
+                "pos": {
+                    "offset": [0, 0],
+                    "anchor": [0.5, 1],
+                    "pivot": [0.5, 1.0]
+                },
+                "size": {
+                    "type": "FixedHeight",
+                    "value": 35
+                },
+                "dependency": "show_police"
+            }
+        ],
+        "interactable_areas": [
+            {
+                "pos": {
+                    "offset": [0, 0],
+                    "anchor": [0.5, 0.5],
+                    "pivot": [0.5, 0.5]
+                },
+                "size": [100, 200],
+                "description": "Klicke, um dem Polizisten zu folgen.",
+                "actions": {
+                    "change_scene": "dead"
+                },
+                "dependency": "has_spoken"
+            }
+        ],
+        "timed_actions": [
+            [0, {
+                "play_audio": "static/assets/police-siren.mp3"
+            }],
+            [4.8, {
+                "play_audio": "static/assets/car-door.mp3"
+            }],
+            [4.8, {
+                "set_flag": ["show_police", true]
+            }],
+            [4.9, {
+                "show_msgbox": {
+                    "title": "Polizist",
+                    "text": "Sie werden des schwerwiegenden Ans-Hoftor-geschlagen-habens angezeigt.",
+                    "afterwards": {
+                        "show_msgbox": {
+                            "title": "Polizist",
+                            "text": "Bitte folgen Sie mir.",
+                            "afterwards": {
+                                "set_flag": ["has_spoken", true]
+                            }
+                        }
+                    }
+                }
+            }],
+            [120, {
+                "show_msgbox": {
+                    "title": "2",
+                    "text": "Die Antwort wurde fast gleichgültig aufgenommen; wichtig schien vor allem, daß sie mich gefunden hatten.",
+                    "afterwards": {}
+                }
+            }],
+            [150, {
+                "show_msgbox": {
+                    "title": "2",
+                    "text": "Noch glaubte ich fast, ein Wort werde genügen, um mich, den Städter, sogar noch unter Ehren, aus diesem Bauernvolk zu befreien.",
+                    "afterwards": {}
+                }
+            }],
+            [180, {
+                "show_msgbox": {
+                    "title": ",5",
+                    "text": "Aber als ich die Schwelle der Stube überschritten hatte, sagte der Richter, der vorgesprungen war und mich schon erwartete:",
+                    "afterwards": {}
+                }
+            }]
+        ]
+    },
+    "dead": {
+        "sprites": [
+            {
+                "texture": "prison",
+                "pos": {
+                    "offset": [0, 0],
+                    "anchor": [0.5, 0.6],
+                    "pivot": [0.5, 0.5]
+                },
+                "size": {
+                    "type": "FixedHeight",
+                    "value": 100
+                }
+            }
+        ],
+        "interactable_areas": [],
+        "timed_actions": [
+            [1, {
+                "unlock_next_state": true
+            }]
+        ]
+    }
+}
