@@ -302,16 +302,12 @@ export function run_web() {
     wasm.run_web();
 }
 
-function wasm_bindgen__convert__closures_____invoke__hc385fff3b1404f20(arg0, arg1, arg2, arg3) {
-    wasm.wasm_bindgen__convert__closures_____invoke__hc385fff3b1404f20(arg0, arg1, arg2, arg3);
-}
-
 function wasm_bindgen__convert__closures_____invoke__h3582b8193531a1bc(arg0, arg1, arg2) {
     wasm.wasm_bindgen__convert__closures_____invoke__h3582b8193531a1bc(arg0, arg1, arg2);
 }
 
-function wasm_bindgen__convert__closures_____invoke__h9bb25172cdfdd125(arg0, arg1) {
-    wasm.wasm_bindgen__convert__closures_____invoke__h9bb25172cdfdd125(arg0, arg1);
+function wasm_bindgen__convert__closures_____invoke__hc385fff3b1404f20(arg0, arg1, arg2, arg3) {
+    wasm.wasm_bindgen__convert__closures_____invoke__hc385fff3b1404f20(arg0, arg1, arg2, arg3);
 }
 
 function wasm_bindgen__convert__closures_____invoke__h5fa0da6349526fa0(arg0, arg1) {
@@ -320,6 +316,10 @@ function wasm_bindgen__convert__closures_____invoke__h5fa0da6349526fa0(arg0, arg
 
 function wasm_bindgen__convert__closures_____invoke__hdbd1cd9b6de00d99(arg0, arg1, arg2) {
     wasm.wasm_bindgen__convert__closures_____invoke__hdbd1cd9b6de00d99(arg0, arg1, arg2);
+}
+
+function wasm_bindgen__convert__closures_____invoke__h9bb25172cdfdd125(arg0, arg1) {
+    wasm.wasm_bindgen__convert__closures_____invoke__h9bb25172cdfdd125(arg0, arg1);
 }
 
 const __wbindgen_enum_GpuAddressMode = ["clamp-to-edge", "repeat", "mirror-repeat"];

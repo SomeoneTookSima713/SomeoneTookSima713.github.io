@@ -45,5 +45,5 @@ fn fs_sky(in: VertexOutput) -> @location(0) vec4<f32> {
     var mixed = mix(horizon_hsv, sky_hsv, abs(in.rel_pos.y*0.5 + 0.5 - horizon_pos));
     mixed.y *= 0.85; // Desaturate
 
-    return vec4<f32>(pow(hsv2rgb(mixed), vec3(2.2)), 1.0);
+    return vec4<f32>(hsv2rgb(mixed), 1.0);
 }
