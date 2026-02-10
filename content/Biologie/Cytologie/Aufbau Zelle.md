@@ -1,4 +1,4 @@
-<img src="../Diagramme/Diagramm Zelle.svg" style="width: 80vw; background: #fff">
+<img src="/Biologie/Diagramme/Diagramm Zelle.svg" style="width: 80vw; background: #fff">
 
 Bestandteil|Funktion
 -|-

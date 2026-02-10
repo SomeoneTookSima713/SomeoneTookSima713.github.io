@@ -1,6 +1,6 @@
 ## Zellbestandteile – Zellwand
 
-<img src="../Diagramme/Diagramm Zellwand.svg" style="background: #fff;">
+<img src="/Biologie/Diagramme/Diagramm Zellwand.svg" style="background: #fff;">
 
 #### AB
 

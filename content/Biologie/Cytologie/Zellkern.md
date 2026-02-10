@@ -1,4 +1,4 @@
 ## Zellbestandteile – Zellkern
 * zwei Membranen
 
-<img src="../Diagramme/Diagramm Zellkern.svg" style="background: #fff;">
+<img src="/Biologie/Diagramme/Diagramm Zellkern.svg" style="background: #fff;">
