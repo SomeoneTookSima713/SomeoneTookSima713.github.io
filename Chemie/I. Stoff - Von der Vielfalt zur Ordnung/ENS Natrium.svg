@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.54929mm"
+   height="44.243153mm"
+   viewBox="0 0 46.54929 44.243153"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="ENS Natrium.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.6317846"
+     inkscape:cx="59.33722"
+     inkscape:cy="88.248626"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.215805,-15.228097)">
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999;marker-start:url(#TriangleStart)"
+       d="M 18.03139,18.393128 V 59.47125"
+       id="path236" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999"
+       d="M 17.895024,54.218289 H 60.637305"
+       id="path238" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999"
+       d="M 17.895024,46.2185 H 60.637305"
+       id="path348" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999"
+       d="M 17.895024,38.2185 H 60.637305"
+       id="path350" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999"
+       x="17.163879"
+       y="17.495047"
+       id="text406"><tspan
+         sodipodi:role="line"
+         id="tspan404"
+         style="stroke:none;stroke-width:0.265"
+         x="17.163879"
+         y="17.495047">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999"
+       x="61.193344"
+       y="39.195545"
+       id="text1014"><tspan
+         sodipodi:role="line"
+         id="tspan1012"
+         style="stroke:none;stroke-width:0.265"
+         x="61.193344"
+         y="39.195545">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999"
+       x="61.193344"
+       y="47.19595"
+       id="text1018"><tspan
+         sodipodi:role="line"
+         id="tspan1016"
+         style="stroke:none;stroke-width:0.265"
+         x="61.193344"
+         y="47.19595">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999"
+       x="61.193344"
+       y="55.19595"
+       id="text1022"><tspan
+         sodipodi:role="line"
+         id="tspan1020"
+         style="stroke:none;stroke-width:0.265"
+         x="61.193344"
+         y="55.19595">K</tspan></text>
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="path1076"
+       cx="28.5653"
+       cy="54.174828"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1078"
+       cx="51.424942"
+       cy="54.174828"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1080"
+       cx="52.670544"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1082"
+       cx="22.86462"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1084"
+       cx="32.448097"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1086"
+       cx="42.656792"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1088"
+       cx="57.031712"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1090"
+       cx="27.22579"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1092"
+       cx="36.809265"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1094"
+       cx="47.01796"
+       cy="46.198372"
+       r="1.669481" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999"
+       id="circle1096"
+       cx="39.803036"
+       cy="38.258339"
+       r="1.669481" />
+  </g>
+</svg>

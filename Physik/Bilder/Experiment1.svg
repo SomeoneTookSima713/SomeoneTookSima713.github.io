@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="25.07604455288083cm"
+     height="12.299915505048437cm"
+     viewBox="0 0 1840 902"
+     >
+<title>
+
+</title>
+<g stroke-dashoffset="0.0000" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1.0000" stroke-linecap="square" stroke-miterlimit="10.000">
+<clipPath id="clip50c18993-47eb-465e-a7d4-c126f211eba7">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 0.0000 0.0000 L 1843.0 0.0000 L 1843.0 904.00 L 0.0000 904.00 L 0.0000 0.0000 z"/>
+</g> <!-- drawing style -->
+</g> <!-- clip1 -->
+<g id="misc">
+</g><!-- misc -->
+<g id="layer0">
+<clipPath id="clipc5744083-c9be-43e8-a404-d0e5d9120f0e">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g fill="#993300" fill-rule="evenodd" fill-opacity=".098039" stroke="none">
+  <path d="M -14.790 160.12 L 903.92 160.12 L 903.92 406.28 L 411.58 406.28 L 411.58 898.62 L -14.790 898.62 z"/>
+<title>Sechseck Vieleck1</title>
+<desc>Sechseck Vieleck1: Polygon A, B, C, D, E, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip2 -->
+<clipPath id="clip91fe4829-8ddc-4650-848e-670fa1e6ddee">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g fill="#993300" fill-rule="evenodd" fill-opacity=".098039" stroke="none">
+  <path d="M 332.35 72.347 L 474.65 72.347 L 474.65 154.50 L 332.35 154.50 z"/>
+<title>Viereck v1</title>
+<desc>Viereck v1: Polygon G, H, I, J</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip3 -->
+<clipPath id="clip02817457-7391-4077-bdba-68d9f2b3fdad">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g fill="#993300" fill-rule="evenodd" fill-opacity=".098039" stroke="none">
+  <path d="M 885.50 468.98 L 940.89 468.98 L 940.89 564.92 L 885.50 564.92 z"/>
+<title>Viereck v2</title>
+<desc>Viereck v2: Polygon L, M, N, O</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip4 -->
+<clipPath id="clip9d855da1-bc73-486c-9e27-5157ca4aebb8">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 903.92 160.12 L -5.0000 160.12"/>
+<title>Strecke a</title>
+<desc>Strecke a: Strecke A, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip5 -->
+<clipPath id="clip7589e4fd-7df0-4002-8c64-1a359cbd6af9">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 903.92 160.12 L 903.92 406.28"/>
+<title>Strecke b</title>
+<desc>Strecke b: Strecke B, C</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip6 -->
+<clipPath id="clipc6770ab7-a47d-4522-83cc-e95bd68fe000">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 903.92 406.28 L 411.58 406.28"/>
+<title>Strecke c</title>
+<desc>Strecke c: Strecke C, D</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip7 -->
+<clipPath id="clip602788e2-a96e-41e6-b3c5-ae4bbef17355">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 411.58 406.28 L 411.58 898.62"/>
+<title>Strecke d</title>
+<desc>Strecke d: Strecke D, E</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip8 -->
+<clipPath id="clipa86858e2-cc08-459c-a11c-44eb463c0a2e">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 411.58 898.62 L -5.0000 898.62"/>
+<title>Strecke e</title>
+<desc>Strecke e: Strecke E, F</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip9 -->
+<clipPath id="clip7a3b21ca-71cf-4183-a3b6-259e6e5c971f">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 332.35 72.347 L 474.65 72.347"/>
+<title>Strecke g</title>
+<desc>Strecke g: Strecke G, H</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip10 -->
+<clipPath id="clip3683a921-1f80-4ec8-8b6d-1554f7427f54">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 474.65 72.347 L 474.65 154.50"/>
+<title>Strecke h</title>
+<desc>Strecke h: Strecke H, I</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip11 -->
+<clipPath id="clip72bd9b7d-1620-4f41-bd31-271b30a3b676">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 474.65 154.50 L 332.35 154.50"/>
+<title>Strecke i</title>
+<desc>Strecke i: Strecke I, J</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip12 -->
+<clipPath id="clipcfdee93a-cf6e-4d71-8c34-a26718a979dd">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 332.35 154.50 L 332.35 72.347"/>
+<title>Strecke j</title>
+<desc>Strecke j: Strecke J, G</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip13 -->
+<clipPath id="clip6bf8fd52-d430-466b-82c5-f472fe29219a">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 474.65 113.43 L 903.92 160.12"/>
+<title>Strecke k</title>
+<desc>Strecke k: Strecke K, B</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip14 -->
+<clipPath id="clipc3656c04-4445-420e-a3e1-f01437fc92e6">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 885.50 468.98 L 940.89 468.98"/>
+<title>Strecke l</title>
+<desc>Strecke l: Strecke L, M</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip15 -->
+<clipPath id="clipaca81f6c-e5b8-4768-8b9e-5d7c41d7e47b">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 940.89 468.98 L 940.89 564.92"/>
+<title>Strecke m</title>
+<desc>Strecke m: Strecke M, N</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip16 -->
+<clipPath id="clipb4005ca2-1292-46a7-8b4e-b83eed3a6668">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 940.89 564.92 L 885.50 564.92"/>
+<title>Strecke n</title>
+<desc>Strecke n: Strecke N, O</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip17 -->
+<clipPath id="clip44ac94d6-218d-46c7-863c-c08208b99925">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#993300" stroke-linecap="round">
+  <path d="M 885.50 564.92 L 885.50 468.98"/>
+<title>Strecke o</title>
+<desc>Strecke o: Strecke O, L</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip18 -->
+<clipPath id="clipa771b4ad-ac84-47ee-aa37-b6f06069308c">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 903.92 160.12 L 913.19 468.98"/>
+<title>Strecke p</title>
+<desc>Strecke p: Strecke B, P</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip19 -->
+<clipPath id="clip656b973b-445e-423a-8673-698707204270">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 474.65 154.50 L 474.65 202.00"/>
+<title>Strecke q</title>
+<desc>Strecke q: Strecke I, Q</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip20 -->
+<clipPath id="clip809ee3d0-7636-4388-8050-ed51a6a1d987">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g stroke-opacity=".69804" stroke-linejoin="round" stroke-width="2.5000" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 474.65 178.25 L 903.92 178.25"/>
+<title>Strecke r</title>
+<desc>Strecke r: Strecke R, S</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip21 -->
+<clipPath id="clip6e88cfc8-8275-4630-8c9c-5ca6e26b8e8a">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 908.92 160.12 C 908.92 162.88 906.68 165.12 903.92 165.12 C 901.15 165.12 898.92 162.88 898.92 160.12 C 898.92 157.35 901.15 155.12 903.92 155.12 C 906.68 155.12 908.92 157.35 908.92 160.12 z"/>
+<title>Punkt B</title>
+<desc>B = (11.96, -1.88)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip22 -->
+<clipPath id="clipae81a5ed-57f0-4840-a8ee-40d15170c131">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 908.92 160.12 C 908.92 162.88 906.68 165.12 903.92 165.12 C 901.15 165.12 898.92 162.88 898.92 160.12 C 898.92 157.35 901.15 155.12 903.92 155.12 C 906.68 155.12 908.92 157.35 908.92 160.12 z"/>
+<title>Punkt B</title>
+<desc>B = (11.96, -1.88)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip23 -->
+<clipPath id="clipc23ebbfc-ee30-4a8c-a00d-b9c2d8621514">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 908.92 406.28 C 908.92 409.04 906.68 411.28 903.92 411.28 C 901.15 411.28 898.92 409.04 898.92 406.28 C 898.92 403.52 901.15 401.28 903.92 401.28 C 906.68 401.28 908.92 403.52 908.92 406.28 z"/>
+<title>Punkt C</title>
+<desc>C = (11.96, -5.23)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip24 -->
+<clipPath id="clipbafb6a06-cfca-452d-8176-5aabe285201d">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 908.92 406.28 C 908.92 409.04 906.68 411.28 903.92 411.28 C 901.15 411.28 898.92 409.04 898.92 406.28 C 898.92 403.52 901.15 401.28 903.92 401.28 C 906.68 401.28 908.92 403.52 908.92 406.28 z"/>
+<title>Punkt C</title>
+<desc>C = (11.96, -5.23)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip25 -->
+<clipPath id="clip3679e820-1358-415b-9028-599d34b721a6">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 416.58 406.28 C 416.58 409.04 414.34 411.28 411.58 411.28 C 408.82 411.28 406.58 409.04 406.58 406.28 C 406.58 403.52 408.82 401.28 411.58 401.28 C 414.34 401.28 416.58 403.52 416.58 406.28 z"/>
+<title>Punkt D</title>
+<desc>D = (5.26, -5.23)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip26 -->
+<clipPath id="clipa423a09b-0915-444e-bb6a-ccc1c99ba6d7">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 416.58 406.28 C 416.58 409.04 414.34 411.28 411.58 411.28 C 408.82 411.28 406.58 409.04 406.58 406.28 C 406.58 403.52 408.82 401.28 411.58 401.28 C 414.34 401.28 416.58 403.52 416.58 406.28 z"/>
+<title>Punkt D</title>
+<desc>D = (5.26, -5.23)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip27 -->
+<clipPath id="clip540e4b4e-206c-4bc5-812b-444184f07e25">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 416.58 898.62 C 416.58 901.38 414.34 903.62 411.58 903.62 C 408.82 903.62 406.58 901.38 406.58 898.62 C 406.58 895.85 408.82 893.62 411.58 893.62 C 414.34 893.62 416.58 895.85 416.58 898.62 z"/>
+<title>Punkt E</title>
+<desc>E = (5.26, -11.93)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip28 -->
+<clipPath id="clipc3d5902f-d1ab-43a9-be3b-9775f54d42b9">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 416.58 898.62 C 416.58 901.38 414.34 903.62 411.58 903.62 C 408.82 903.62 406.58 901.38 406.58 898.62 C 406.58 895.85 408.82 893.62 411.58 893.62 C 414.34 893.62 416.58 895.85 416.58 898.62 z"/>
+<title>Punkt E</title>
+<desc>E = (5.26, -11.93)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip29 -->
+<clipPath id="clipdcd0e11e-053f-44ba-9fb8-2c637b992168">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 337.35 72.347 C 337.35 75.108 335.11 77.347 332.35 77.347 C 329.59 77.347 327.35 75.108 327.35 72.347 C 327.35 69.585 329.59 67.347 332.35 67.347 C 335.11 67.347 337.35 69.585 337.35 72.347 z"/>
+<title>Punkt G</title>
+<desc>G = (4.18, -0.69)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip30 -->
+<clipPath id="clip6717c62b-6627-44ad-a56f-19e28df68b53">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 337.35 72.347 C 337.35 75.108 335.11 77.347 332.35 77.347 C 329.59 77.347 327.35 75.108 327.35 72.347 C 327.35 69.585 329.59 67.347 332.35 67.347 C 335.11 67.347 337.35 69.585 337.35 72.347 z"/>
+<title>Punkt G</title>
+<desc>G = (4.18, -0.69)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip31 -->
+<clipPath id="clip965806bd-52ff-4991-995c-dceee2aefe9c">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 479.65 72.347 C 479.65 75.108 477.41 77.347 474.65 77.347 C 471.89 77.347 469.65 75.108 469.65 72.347 C 469.65 69.585 471.89 67.347 474.65 67.347 C 477.41 67.347 479.65 69.585 479.65 72.347 z"/>
+<title>Punkt H</title>
+<desc>H = (6.12, -0.69)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip32 -->
+<clipPath id="clipda5aefd7-7ca6-4f31-8c4e-9717aa6c610c">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 479.65 72.347 C 479.65 75.108 477.41 77.347 474.65 77.347 C 471.89 77.347 469.65 75.108 469.65 72.347 C 469.65 69.585 471.89 67.347 474.65 67.347 C 477.41 67.347 479.65 69.585 479.65 72.347 z"/>
+<title>Punkt H</title>
+<desc>H = (6.12, -0.69)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip33 -->
+<clipPath id="clipc187850e-2d57-4e6d-8b6a-813d856daec7">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 479.65 154.50 C 479.65 157.27 477.41 159.50 474.65 159.50 C 471.89 159.50 469.65 157.27 469.65 154.50 C 469.65 151.74 471.89 149.50 474.65 149.50 C 477.41 149.50 479.65 151.74 479.65 154.50 z"/>
+<title>Punkt I</title>
+<desc>I = (6.12, -1.8)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip34 -->
+<clipPath id="clipcb1e1fd6-982f-47fa-a1d9-8cb6cfa081e6">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 479.65 154.50 C 479.65 157.27 477.41 159.50 474.65 159.50 C 471.89 159.50 469.65 157.27 469.65 154.50 C 469.65 151.74 471.89 149.50 474.65 149.50 C 477.41 149.50 479.65 151.74 479.65 154.50 z"/>
+<title>Punkt I</title>
+<desc>I = (6.12, -1.8)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip35 -->
+<clipPath id="clip0dcd858d-8166-4daf-aec0-2465fcddd767">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 337.35 154.50 C 337.35 157.27 335.11 159.50 332.35 159.50 C 329.59 159.50 327.35 157.27 327.35 154.50 C 327.35 151.74 329.59 149.50 332.35 149.50 C 335.11 149.50 337.35 151.74 337.35 154.50 z"/>
+<title>Punkt J</title>
+<desc>J = (4.18, -1.8)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip36 -->
+<clipPath id="clipb0141fc5-7db7-4e16-9624-b0f706373583">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip37)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 337.35 154.50 C 337.35 157.27 335.11 159.50 332.35 159.50 C 329.59 159.50 327.35 157.27 327.35 154.50 C 327.35 151.74 329.59 149.50 332.35 149.50 C 335.11 149.50 337.35 151.74 337.35 154.50 z"/>
+<title>Punkt J</title>
+<desc>J = (4.18, -1.8)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip37 -->
+<clipPath id="clip53a5c8af-32f6-4d37-830d-3e4eda61d7dc">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip38)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 478.65 113.43 C 478.65 115.63 476.86 117.43 474.65 117.43 C 472.44 117.43 470.65 115.63 470.65 113.43 C 470.65 111.22 472.44 109.43 474.65 109.43 C 476.86 109.43 478.65 111.22 478.65 113.43 z"/>
+<title>Punkt K</title>
+<desc>Punkt K: Mittelpunkt von H, I</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip38 -->
+<clipPath id="clipd8fec393-5a4a-4b70-bb47-824ee3cee4e8">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip39)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 478.65 113.43 C 478.65 115.63 476.86 117.43 474.65 117.43 C 472.44 117.43 470.65 115.63 470.65 113.43 C 470.65 111.22 472.44 109.43 474.65 109.43 C 476.86 109.43 478.65 111.22 478.65 113.43 z"/>
+<title>Punkt K</title>
+<desc>Punkt K: Mittelpunkt von H, I</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip39 -->
+<clipPath id="clipec04ac62-f278-4bc6-a619-84210bdec3c0">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip40)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 890.50 468.98 C 890.50 471.74 888.26 473.98 885.50 473.98 C 882.74 473.98 880.50 471.74 880.50 468.98 C 880.50 466.22 882.74 463.98 885.50 463.98 C 888.26 463.98 890.50 466.22 890.50 468.98 z"/>
+<title>Punkt L</title>
+<desc>L = (11.71, -6.08)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip40 -->
+<clipPath id="clip3420b1b6-c03b-40ad-a714-2f8b71c3e04f">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip41)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 890.50 468.98 C 890.50 471.74 888.26 473.98 885.50 473.98 C 882.74 473.98 880.50 471.74 880.50 468.98 C 880.50 466.22 882.74 463.98 885.50 463.98 C 888.26 463.98 890.50 466.22 890.50 468.98 z"/>
+<title>Punkt L</title>
+<desc>L = (11.71, -6.08)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip41 -->
+<clipPath id="clip62e62143-8301-4b79-86cd-ac2ca5a32b04">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip42)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 945.89 468.98 C 945.89 471.74 943.65 473.98 940.89 473.98 C 938.13 473.98 935.89 471.74 935.89 468.98 C 935.89 466.22 938.13 463.98 940.89 463.98 C 943.65 463.98 945.89 466.22 945.89 468.98 z"/>
+<title>Punkt M</title>
+<desc>M = (12.46, -6.08)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip42 -->
+<clipPath id="clip2106dc32-eddc-472f-b717-c7232aac008d">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip43)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 945.89 468.98 C 945.89 471.74 943.65 473.98 940.89 473.98 C 938.13 473.98 935.89 471.74 935.89 468.98 C 935.89 466.22 938.13 463.98 940.89 463.98 C 943.65 463.98 945.89 466.22 945.89 468.98 z"/>
+<title>Punkt M</title>
+<desc>M = (12.46, -6.08)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip43 -->
+<clipPath id="clip00b4a1b1-62b7-45fb-8062-90827a01f4bb">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip44)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 945.89 564.92 C 945.89 567.69 943.65 569.92 940.89 569.92 C 938.13 569.92 935.89 567.69 935.89 564.92 C 935.89 562.16 938.13 559.92 940.89 559.92 C 943.65 559.92 945.89 562.16 945.89 564.92 z"/>
+<title>Punkt N</title>
+<desc>N = (12.46, -7.39)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip44 -->
+<clipPath id="clip23a6fe18-9191-4ce3-8086-b30b1dfdbf14">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip45)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 945.89 564.92 C 945.89 567.69 943.65 569.92 940.89 569.92 C 938.13 569.92 935.89 567.69 935.89 564.92 C 935.89 562.16 938.13 559.92 940.89 559.92 C 943.65 559.92 945.89 562.16 945.89 564.92 z"/>
+<title>Punkt N</title>
+<desc>N = (12.46, -7.39)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip45 -->
+<clipPath id="clip091bc484-e7f7-46e3-a3c9-90269e646e87">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip46)">
+<g fill="#4d4dff" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 890.50 564.92 C 890.50 567.69 888.26 569.92 885.50 569.92 C 882.74 569.92 880.50 567.69 880.50 564.92 C 880.50 562.16 882.74 559.92 885.50 559.92 C 888.26 559.92 890.50 562.16 890.50 564.92 z"/>
+<title>Punkt O</title>
+<desc>O = (11.71, -7.39)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip46 -->
+<clipPath id="clip6f461303-e8b5-4941-96cf-2203966df8dc">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip47)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 890.50 564.92 C 890.50 567.69 888.26 569.92 885.50 569.92 C 882.74 569.92 880.50 567.69 880.50 564.92 C 880.50 562.16 882.74 559.92 885.50 559.92 C 888.26 559.92 890.50 562.16 890.50 564.92 z"/>
+<title>Punkt O</title>
+<desc>O = (11.71, -7.39)</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip47 -->
+<clipPath id="clip93eed8de-f5d7-4f5c-b440-c750612515d8">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip48)">
+<g fill="#444444" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 917.19 468.98 C 917.19 471.19 915.40 472.98 913.19 472.98 C 910.99 472.98 909.19 471.19 909.19 468.98 C 909.19 466.77 910.99 464.98 913.19 464.98 C 915.40 464.98 917.19 466.77 917.19 468.98 z"/>
+<title>Punkt P</title>
+<desc>Punkt P: Mittelpunkt von L, M</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip48 -->
+<clipPath id="clipedc63681-7ab5-4e1d-b18a-454ebc0f43b7">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip49)">
+<g stroke-opacity="1.0000" stroke-linejoin="round" fill="none" stroke="#000000" stroke-linecap="round">
+  <path d="M 917.19 468.98 C 917.19 471.19 915.40 472.98 913.19 472.98 C 910.99 472.98 909.19 471.19 909.19 468.98 C 909.19 466.77 910.99 464.98 913.19 464.98 C 915.40 464.98 917.19 466.77 917.19 468.98 z"/>
+<title>Punkt P</title>
+<desc>Punkt P: Mittelpunkt von L, M</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip49 -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1066.0, 183.35)">
+<clipPath id="clipbb349d1a-c25a-43f3-b1a3-23e0867237c8">
+  <path d="M -4264.0 -733.40 L -4264.0 2882.6 L 3108.0 2882.6 L 3108.0 -733.40 z"/>
+</clipPath>
+<g clip-path="url(#clip50)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 30.297 -32.500 L 24.094 -7.5938 Q 23.703 -6.0938 23.703 -5.2969 Q 23.703 -3.9062 25.000 -3.5938 Q 25.703 -3.4062 26.906 -3.2969 Q 29.406 -3.0938 32.094 -3.0938 Q 34.594 -3.0938 34.906 -3.0000 L 35.406 -2.2969 Q 35.500 -2.0938 35.500 -1.9062 Q 35.500 0.0000 33.406 0.0000 L 18.594 -.29688 L 18.500 -.29688 L 5.4062 0.0000 L 5.2969 0.0000 Q 3.7969 0.0000 3.7969 -1.2031 Q 3.7969 -2.9062 5.4062 -3.0938 L 6.5938 -3.0938 Q 13.094 -3.0938 14.406 -4.5000 Q 15.000 -5.2031 15.594 -7.2969 Q 15.594 -7.4062 15.703 -7.7969 L 28.906 -60.703 Q 29.406 -62.500 29.406 -63.094 Q 29.406 -64.797 24.797 -64.906 L 24.703 -64.906 L 22.906 -64.906 Q 20.297 -64.906 20.094 -66.000 Q 20.094 -67.797 21.703 -68.000 L 23.094 -68.000 L 72.094 -68.000 Q 74.500 -68.000 74.703 -67.297 L 74.797 -67.297 Q 75.000 -66.703 74.797 -65.297 L 72.797 -48.000 Q 72.094 -45.703 71.406 -45.500 Q 70.203 -45.500 70.203 -46.703 Q 70.203 -47.203 70.406 -48.500 Q 70.703 -51.203 70.703 -53.906 Q 70.703 -60.594 67.297 -62.797 L 67.203 -62.906 Q 64.000 -64.906 56.094 -64.906 L 42.906 -64.906 Q 39.203 -64.906 38.500 -63.797 L 38.406 -63.797 L 38.406 -63.703 Q 38.094 -63.297 37.906 -62.500 L 37.906 -62.406 L 37.797 -62.297 Q 37.703 -61.906 37.500 -61.000 L 31.094 -35.594 L 40.203 -35.594 Q 47.500 -35.594 50.000 -38.297 L 50.094 -38.406 Q 51.797 -40.297 53.094 -45.203 Q 53.594 -47.094 54.594 -47.297 Q 55.703 -47.297 55.797 -46.203 Q 55.797 -45.703 55.500 -44.594 L 50.000 -22.906 Q 49.000 -20.906 48.500 -20.797 Q 47.297 -20.797 47.297 -22.000 Q 47.297 -22.406 47.594 -23.094 Q 48.297 -26.094 48.297 -28.000 Q 48.297 -30.906 46.094 -31.797 L 46.094 -31.797 Q 44.203 -32.500 40.000 -32.500 L 30.297 -32.500 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip50 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1082.1, 187.10)">
+<clipPath id="clipbcdbb0f3-34e1-4fd0-84f2-fa5abca07f87">
+  <path d="M -6183.3 -1069.1 L -6183.3 4096.6 L 4348.1 4096.6 L 4348.1 -1069.1 z"/>
+</clipPath>
+<g clip-path="url(#clip51)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 37.500 -61.406 L 31.000 -35.297 L 42.203 -35.297 Q 53.297 -35.297 59.094 -41.094 Q 63.500 -45.500 64.500 -53.297 L 64.500 -53.406 Q 64.594 -54.500 64.594 -55.297 Q 64.594 -64.203 52.000 -65.094 L 51.797 -65.094 Q 49.906 -65.203 46.406 -65.203 Q 41.203 -65.203 40.297 -65.094 Q 38.500 -64.797 37.906 -62.906 L 37.906 -62.906 Q 37.797 -62.406 37.500 -61.406 z M 51.906 -34.000 L 51.906 -34.000 Q 60.500 -30.797 61.203 -23.500 Q 61.297 -22.906 61.297 -22.203 Q 61.297 -20.297 60.906 -17.500 Q 59.906 -9.5000 59.906 -6.0938 Q 59.906 -.90625 62.500 -.20312 L 62.594 -.20312 Q 63.203 0.0000 63.906 0.0000 Q 68.203 0.0000 71.203 -5.2031 Q 72.297 -6.9062 73.000 -9.0938 Q 73.406 -10.500 74.297 -10.500 Q 75.500 -10.500 75.500 -9.2969 Q 75.500 -7.2969 73.094 -3.7031 Q 71.203 -.79688 68.703 .79688 Q 66.297 2.2031 63.500 2.2031 Q 55.203 2.2031 51.906 -2.7031 Q 50.203 -5.0938 50.203 -8.5938 Q 50.203 -10.703 51.797 -17.094 Q 53.203 -22.500 53.203 -24.000 Q 53.203 -30.203 47.594 -32.203 L 47.594 -32.297 Q 45.297 -33.094 42.297 -33.094 L 30.406 -33.094 L 23.797 -6.5938 L 23.500 -4.9062 Q 23.500 -3.2031 28.094 -3.0938 L 28.094 -3.0938 L 28.094 -3.0938 L 30.000 -3.0938 Q 32.594 -3.0938 32.797 -2.0000 Q 32.797 0.0000 30.797 0.0000 L 18.203 -.29688 L 18.094 -.29688 L 5.5938 0.0000 L 5.5000 0.0000 Q 4.0938 0.0000 4.0938 -1.0938 Q 4.0938 -2.9062 5.5938 -3.0938 L 6.7969 -3.0938 Q 13.297 -3.0938 14.594 -4.5000 Q 15.203 -5.2031 15.797 -7.2969 Q 15.797 -7.4062 15.906 -7.7969 L 29.297 -61.500 Q 29.703 -63.094 29.703 -63.406 Q 29.703 -64.594 28.094 -64.906 L 28.000 -64.906 L 27.906 -64.906 Q 27.594 -64.906 27.000 -65.000 Q 25.297 -65.203 23.203 -65.203 Q 20.594 -65.203 20.406 -66.297 Q 20.406 -68.094 21.906 -68.297 L 23.297 -68.297 L 51.797 -68.297 Q 64.297 -68.297 70.406 -61.703 Q 73.906 -58.094 73.906 -53.297 Q 73.906 -44.594 63.203 -38.406 Q 58.000 -35.297 51.906 -34.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip51 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1102.4, 183.35)">
+<clipPath id="clip542c0b40-7cf1-4cfe-9405-8295857ac4b9">
+  <path d="M -4409.8 -733.40 L -4409.8 2882.6 L 2962.2 2882.6 L 2962.2 -733.40 z"/>
+</clipPath>
+<g clip-path="url(#clip52)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 68.703 -32.703 L 9.0000 -32.703 Q 5.7969 -32.703 5.5938 -34.703 Q 5.5938 -36.703 8.9062 -36.703 L 68.797 -36.703 Q 72.000 -36.703 72.094 -34.703 Q 72.094 -32.703 68.703 -32.703 z M 68.797 -13.297 L 8.9062 -13.297 Q 5.7031 -13.297 5.5938 -15.297 Q 5.5938 -17.297 9.0000 -17.297 L 68.703 -17.297 Q 71.906 -17.297 72.094 -15.297 Q 72.094 -13.297 68.797 -13.297 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip52 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1128.8, 183.35)">
+<clipPath id="clipcac25c7b-1825-482d-bb0a-d6df8c301407">
+  <path d="M -4515.3 -733.40 L -4515.3 2882.6 L 2856.7 2882.6 L 2856.7 -733.40 z"/>
+</clipPath>
+<g clip-path="url(#clip53)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 23.500 -24.906 L 23.500 -21.406 Q 23.500 -19.000 22.703 -18.797 Q 22.500 -18.703 22.203 -18.703 Q 21.094 -18.703 21.000 -19.797 L 21.000 -21.094 L 21.000 -25.594 Q 21.000 -35.906 27.094 -44.703 Q 28.297 -46.500 29.797 -48.094 Q 32.500 -50.797 33.000 -54.500 Q 33.203 -55.906 33.203 -57.594 Q 33.203 -63.703 30.406 -66.000 L 30.406 -66.094 Q 27.703 -68.297 22.297 -68.297 Q 14.000 -68.297 9.9062 -62.500 L 9.7969 -62.500 L 9.2031 -61.500 Q 14.797 -61.500 14.797 -57.000 Q 14.797 -53.594 11.703 -52.594 Q 11.000 -52.406 10.203 -52.406 Q 6.5938 -52.406 5.7969 -55.703 L 5.7969 -55.797 Q 5.5938 -56.406 5.5938 -57.203 Q 5.5938 -63.203 11.203 -67.203 Q 15.906 -70.500 22.594 -70.500 Q 36.906 -70.500 40.594 -61.703 Q 41.500 -59.500 41.500 -57.000 Q 41.500 -51.000 37.000 -47.500 Q 36.906 -47.297 36.703 -47.203 Q 27.203 -40.203 24.594 -32.000 Q 23.500 -28.594 23.500 -24.906 z M 27.500 -5.2969 L 27.500 -5.2969 Q 27.500 -2.0000 24.500 -.50000 Q 23.406 0.0000 22.203 0.0000 Q 18.906 0.0000 17.406 -3.0000 Q 16.906 -4.0938 16.906 -5.2969 Q 16.906 -8.5938 19.906 -10.094 Q 21.000 -10.594 22.203 -10.594 Q 25.500 -10.594 27.000 -7.5938 Q 27.500 -6.5000 27.500 -5.2969 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip53 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1066.0, 208.65)">
+<clipPath id="clipe96f1fde-baf7-43a9-b16b-7e738e6b4c8e">
+  <path d="M -4264.0 -834.60 L -4264.0 2781.4 L 3108.0 2781.4 L 3108.0 -834.60 z"/>
+</clipPath>
+<g clip-path="url(#clip54)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 39.094 -37.406 L 39.094 -37.406 Q 37.000 -41.797 30.094 -42.000 Q 22.000 -42.000 19.500 -35.906 Q 18.906 -34.406 18.906 -33.000 Q 18.906 -29.094 23.703 -27.703 L 23.703 -27.703 L 23.797 -27.594 Q 24.500 -27.406 26.500 -27.000 Q 32.703 -25.703 34.797 -24.203 Q 35.703 -23.594 36.500 -22.797 Q 39.594 -19.703 39.594 -15.500 Q 39.594 -10.297 35.703 -5.5938 Q 30.094 1.0938 19.500 1.0938 Q 10.203 1.0938 6.5938 -4.0938 Q 5.2031 -6.0938 5.2031 -8.5938 Q 5.2031 -13.500 9.0000 -14.906 Q 9.9062 -15.203 10.797 -15.203 Q 14.094 -14.703 14.500 -11.703 Q 14.500 -8.5938 11.797 -7.0938 Q 10.203 -6.0938 8.2031 -6.4062 Q 10.500 -1.0938 19.594 -1.0938 Q 29.906 -1.0938 33.094 -8.5938 Q 33.906 -10.500 33.906 -12.094 Q 33.906 -16.906 28.000 -18.703 L 28.000 -18.703 L 27.906 -18.703 Q 26.406 -19.094 23.500 -19.703 Q 14.500 -21.594 13.406 -27.703 Q 13.203 -28.594 13.203 -29.594 Q 13.203 -34.594 17.000 -38.906 Q 21.703 -44.203 30.094 -44.203 Q 38.000 -44.203 41.000 -39.297 Q 42.000 -37.594 42.000 -35.594 Q 42.000 -31.094 38.594 -30.203 Q 38.000 -30.000 37.406 -30.000 Q 34.594 -30.406 34.297 -32.906 Q 34.297 -35.594 37.000 -36.906 Q 38.000 -37.406 39.094 -37.406 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip54 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1084.7, 208.65)">
+<clipPath id="clip7b6563e5-5082-4253-a366-a059c8a2321a">
+  <path d="M -4338.7 -834.60 L -4338.7 2781.4 L 3033.3 2781.4 L 3033.3 -834.60 z"/>
+</clipPath>
+<g clip-path="url(#clip55)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 68.703 -32.703 L 9.0000 -32.703 Q 5.7969 -32.703 5.5938 -34.703 Q 5.5938 -36.703 8.9062 -36.703 L 68.797 -36.703 Q 72.000 -36.703 72.094 -34.703 Q 72.094 -32.703 68.703 -32.703 z M 68.797 -13.297 L 8.9062 -13.297 Q 5.7031 -13.297 5.5938 -15.297 Q 5.5938 -17.297 9.0000 -17.297 L 68.703 -17.297 Q 71.906 -17.297 72.094 -15.297 Q 72.094 -13.297 68.797 -13.297 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip55 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1112.4, 208.65)">
+<clipPath id="clip3c5bdf82-940e-4f9e-b2a3-028a1fa22bf0">
+  <path d="M -4449.8 -834.60 L -4449.8 2781.4 L 2922.2 2781.4 L 2922.2 -834.60 z"/>
+</clipPath>
+<g clip-path="url(#clip56)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 18.000 -8.2969 L 18.000 0.0000 L 9.7031 0.0000 L 9.7031 -8.2969 L 18.000 -8.2969 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip56 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1125.0, 208.65)">
+<clipPath id="clip6c9060de-84e9-4c8f-be47-eebba4f39c9a">
+  <path d="M -4499.8 -834.60 L -4499.8 2781.4 L 2872.2 2781.4 L 2872.2 -834.60 z"/>
+</clipPath>
+<g clip-path="url(#clip57)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 18.000 -8.2969 L 18.000 0.0000 L 9.7031 0.0000 L 9.7031 -8.2969 L 18.000 -8.2969 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip57 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1137.5, 208.65)">
+<clipPath id="clip65d38443-4d9f-42e9-8644-0dbefe108b1d">
+  <path d="M -4549.8 -834.60 L -4549.8 2781.4 L 2822.2 2781.4 L 2822.2 -834.60 z"/>
+</clipPath>
+<g clip-path="url(#clip58)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 18.000 -8.2969 L 18.000 0.0000 L 9.7031 0.0000 L 9.7031 -8.2969 L 18.000 -8.2969 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip58 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1066.0, 234.80)">
+<clipPath id="clipc984c990-6f1f-4bb2-a1d1-7fbffd30bfa6">
+  <path d="M -4264.0 -939.20 L -4264.0 2676.8 L 3108.0 2676.8 L 3108.0 -939.20 z"/>
+</clipPath>
+<g clip-path="url(#clip59)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 20.594 -40.000 L 13.203 -10.500 Q 12.594 -8.0000 12.594 -5.7031 Q 12.594 -1.0938 15.703 -1.0938 Q 22.297 -1.0938 27.297 -10.797 L 28.703 -13.906 Q 29.297 -15.203 30.203 -15.297 Q 31.406 -15.297 31.406 -14.297 Q 31.406 -13.000 28.797 -8.5938 Q 23.000 1.0938 15.500 1.0938 Q 9.7031 1.0938 7.2969 -3.7031 Q 6.2969 -5.7031 6.2969 -8.0938 Q 6.2969 -10.000 12.406 -34.000 L 13.906 -40.000 L 5.0938 -40.000 Q 2.5938 -40.000 2.4062 -40.797 L 2.2969 -40.797 L 2.2969 -41.203 Q 2.2969 -42.906 3.9062 -43.094 L 5.2969 -43.094 L 14.703 -43.094 L 18.594 -59.000 Q 19.500 -62.500 22.594 -62.594 Q 25.203 -62.594 25.500 -59.906 Q 25.500 -59.297 21.406 -43.094 L 30.203 -43.094 Q 32.797 -43.094 33.000 -42.000 Q 33.000 -40.203 31.406 -40.000 L 31.297 -40.000 L 30.000 -40.000 L 20.594 -40.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip59 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1082.0, 234.80)">
+<clipPath id="clip334760d6-126b-42cc-85e7-30b2c1dbf6b7">
+  <path d="M -4327.9 -939.20 L -4327.9 2676.8 L 3044.1 2676.8 L 3044.1 -939.20 z"/>
+</clipPath>
+<g clip-path="url(#clip60)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 68.703 -32.703 L 9.0000 -32.703 Q 5.7969 -32.703 5.5938 -34.703 Q 5.5938 -36.703 8.9062 -36.703 L 68.797 -36.703 Q 72.000 -36.703 72.094 -34.703 Q 72.094 -32.703 68.703 -32.703 z M 68.797 -13.297 L 8.9062 -13.297 Q 5.7031 -13.297 5.5938 -15.297 Q 5.5938 -17.297 9.0000 -17.297 L 68.703 -17.297 Q 71.906 -17.297 72.094 -15.297 Q 72.094 -13.297 68.797 -13.297 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip60 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1109.7, 234.80)">
+<clipPath id="clip5bfdbbf6-f84a-4e8e-8777-19bba335aa2d">
+  <path d="M -4439.0 -939.20 L -4439.0 2676.8 L 2933.0 2676.8 L 2933.0 -939.20 z"/>
+</clipPath>
+<g clip-path="url(#clip61)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 18.000 -8.2969 L 18.000 0.0000 L 9.7031 0.0000 L 9.7031 -8.2969 L 18.000 -8.2969 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip61 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1122.2, 234.80)">
+<clipPath id="clip8147cbc1-ccdd-455f-96cb-b8d9d71ac16c">
+  <path d="M -4489.0 -939.20 L -4489.0 2676.8 L 2883.0 2676.8 L 2883.0 -939.20 z"/>
+</clipPath>
+<g clip-path="url(#clip62)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 18.000 -8.2969 L 18.000 0.0000 L 9.7031 0.0000 L 9.7031 -8.2969 L 18.000 -8.2969 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip62 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1134.8, 234.80)">
+<clipPath id="clip4ed594f1-2dfe-4f99-b334-36327ba2be67">
+  <path d="M -4539.0 -939.20 L -4539.0 2676.8 L 2833.0 2676.8 L 2833.0 -939.20 z"/>
+</clipPath>
+<g clip-path="url(#clip63)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 18.000 -8.2969 L 18.000 0.0000 L 9.7031 0.0000 L 9.7031 -8.2969 L 18.000 -8.2969 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip63 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1163.0, 266.96)">
+<clipPath id="clip46ce3504-5627-433e-a220-5c6c0645ec3f">
+  <path d="M -4651.9 -1067.8 L -4651.9 2548.2 L 2720.1 2548.2 L 2720.1 -1067.8 z"/>
+</clipPath>
+<g clip-path="url(#clip64)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 30.297 -32.500 L 24.094 -7.5938 Q 23.703 -6.0938 23.703 -5.2969 Q 23.703 -3.9062 25.000 -3.5938 Q 25.703 -3.4062 26.906 -3.2969 Q 29.406 -3.0938 32.094 -3.0938 Q 34.594 -3.0938 34.906 -3.0000 L 35.406 -2.2969 Q 35.500 -2.0938 35.500 -1.9062 Q 35.500 0.0000 33.406 0.0000 L 18.594 -.29688 L 18.500 -.29688 L 5.4062 0.0000 L 5.2969 0.0000 Q 3.7969 0.0000 3.7969 -1.2031 Q 3.7969 -2.9062 5.4062 -3.0938 L 6.5938 -3.0938 Q 13.094 -3.0938 14.406 -4.5000 Q 15.000 -5.2031 15.594 -7.2969 Q 15.594 -7.4062 15.703 -7.7969 L 28.906 -60.703 Q 29.406 -62.500 29.406 -63.094 Q 29.406 -64.797 24.797 -64.906 L 24.703 -64.906 L 22.906 -64.906 Q 20.297 -64.906 20.094 -66.000 Q 20.094 -67.797 21.703 -68.000 L 23.094 -68.000 L 72.094 -68.000 Q 74.500 -68.000 74.703 -67.297 L 74.797 -67.297 Q 75.000 -66.703 74.797 -65.297 L 72.797 -48.000 Q 72.094 -45.703 71.406 -45.500 Q 70.203 -45.500 70.203 -46.703 Q 70.203 -47.203 70.406 -48.500 Q 70.703 -51.203 70.703 -53.906 Q 70.703 -60.594 67.297 -62.797 L 67.203 -62.906 Q 64.000 -64.906 56.094 -64.906 L 42.906 -64.906 Q 39.203 -64.906 38.500 -63.797 L 38.406 -63.797 L 38.406 -63.703 Q 38.094 -63.297 37.906 -62.500 L 37.906 -62.406 L 37.797 -62.297 Q 37.703 -61.906 37.500 -61.000 L 31.094 -35.594 L 40.203 -35.594 Q 47.500 -35.594 50.000 -38.297 L 50.094 -38.406 Q 51.797 -40.297 53.094 -45.203 Q 53.594 -47.094 54.594 -47.297 Q 55.703 -47.297 55.797 -46.203 Q 55.797 -45.703 55.500 -44.594 L 50.000 -22.906 Q 49.000 -20.906 48.500 -20.797 Q 47.297 -20.797 47.297 -22.000 Q 47.297 -22.406 47.594 -23.094 Q 48.297 -26.094 48.297 -28.000 Q 48.297 -30.906 46.094 -31.797 L 46.094 -31.797 Q 44.203 -32.500 40.000 -32.500 L 30.297 -32.500 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip64 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1179.1, 270.71)">
+<clipPath id="clip368f0afa-bf8c-497d-abd3-b196bae229e8">
+  <path d="M -6737.5 -1546.9 L -6737.5 3618.8 L 3794.0 3618.8 L 3794.0 -1546.9 z"/>
+</clipPath>
+<g clip-path="url(#clip65)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 76.000 -69.500 L 69.703 -44.000 Q 69.203 -42.203 68.703 -42.094 L 68.594 -42.000 L 67.906 -42.000 Q 66.406 -42.000 66.406 -43.000 L 66.703 -47.906 L 66.703 -48.094 Q 66.703 -60.500 58.906 -65.203 L 58.797 -65.297 Q 55.297 -67.406 50.594 -67.406 Q 39.906 -67.406 30.297 -59.297 Q 27.594 -57.094 25.594 -54.500 Q 16.000 -42.703 14.297 -25.500 Q 14.094 -23.406 14.094 -21.906 Q 14.094 -8.2031 24.500 -3.0938 Q 28.906 -.90625 34.203 -.90625 Q 42.703 -.90625 48.297 -5.2031 Q 52.297 -8.2031 53.500 -13.000 Q 55.594 -20.797 55.594 -22.094 Q 55.594 -23.406 54.094 -23.797 Q 53.594 -23.906 52.500 -24.000 Q 50.203 -24.203 47.203 -24.203 Q 44.500 -24.203 44.297 -24.797 Q 44.203 -24.906 44.203 -25.297 Q 44.203 -27.297 46.297 -27.297 L 60.203 -27.000 L 60.297 -27.000 L 70.703 -27.297 L 70.797 -27.297 Q 72.094 -27.297 72.094 -26.203 Q 72.094 -24.203 70.500 -24.203 Q 65.906 -24.094 65.000 -23.203 Q 64.406 -22.500 63.594 -19.406 Q 63.594 -19.594 62.594 -15.500 Q 62.406 -14.797 62.297 -14.297 L 60.406 -6.5938 Q 59.000 -.79688 58.703 -.50000 Q 58.703 -.093750 58.000 -.093750 Q 56.906 -.093750 54.594 -3.9062 Q 53.906 -5.2031 53.500 -6.2969 Q 50.094 -2.5000 45.797 -.59375 L 44.797 -.20312 Q 39.000 2.2031 32.297 2.2031 Q 18.797 2.2031 11.094 -7.2031 Q 5.0000 -14.594 5.0000 -25.203 Q 5.0000 -40.094 15.906 -53.094 Q 26.000 -65.203 39.797 -69.094 Q 44.906 -70.500 49.797 -70.500 Q 60.703 -70.500 66.406 -61.594 L 73.406 -69.297 Q 74.594 -70.500 74.906 -70.500 Q 76.000 -70.500 76.000 -69.500 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip65 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1198.4, 266.96)">
+<clipPath id="clip5036137e-8322-49b7-ad8b-cecb2432c962">
+  <path d="M -4793.5 -1067.8 L -4793.5 2548.2 L 2578.5 2548.2 L 2578.5 -1067.8 z"/>
+</clipPath>
+<g clip-path="url(#clip66)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 66.094 -23.000 L 11.594 -23.000 Q 8.4062 -23.000 8.2969 -25.000 Q 8.2969 -27.000 11.594 -27.000 L 66.094 -27.000 Q 69.297 -27.000 69.406 -25.000 Q 69.406 -23.000 66.094 -23.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip66 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1223.4, 266.96)">
+<clipPath id="clip1482d6f2-2d7f-4892-b901-320612e2dadd">
+  <path d="M -4893.5 -1067.8 L -4893.5 2548.2 L 2478.5 2548.2 L 2478.5 -1067.8 z"/>
+</clipPath>
+<g clip-path="url(#clip67)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 30.297 -32.500 L 24.094 -7.5938 Q 23.703 -6.0938 23.703 -5.2969 Q 23.703 -3.9062 25.000 -3.5938 Q 25.703 -3.4062 26.906 -3.2969 Q 29.406 -3.0938 32.094 -3.0938 Q 34.594 -3.0938 34.906 -3.0000 L 35.406 -2.2969 Q 35.500 -2.0938 35.500 -1.9062 Q 35.500 0.0000 33.406 0.0000 L 18.594 -.29688 L 18.500 -.29688 L 5.4062 0.0000 L 5.2969 0.0000 Q 3.7969 0.0000 3.7969 -1.2031 Q 3.7969 -2.9062 5.4062 -3.0938 L 6.5938 -3.0938 Q 13.094 -3.0938 14.406 -4.5000 Q 15.000 -5.2031 15.594 -7.2969 Q 15.594 -7.4062 15.703 -7.7969 L 28.906 -60.703 Q 29.406 -62.500 29.406 -63.094 Q 29.406 -64.797 24.797 -64.906 L 24.703 -64.906 L 22.906 -64.906 Q 20.297 -64.906 20.094 -66.000 Q 20.094 -67.797 21.703 -68.000 L 23.094 -68.000 L 72.094 -68.000 Q 74.500 -68.000 74.703 -67.297 L 74.797 -67.297 Q 75.000 -66.703 74.797 -65.297 L 72.797 -48.000 Q 72.094 -45.703 71.406 -45.500 Q 70.203 -45.500 70.203 -46.703 Q 70.203 -47.203 70.406 -48.500 Q 70.703 -51.203 70.703 -53.906 Q 70.703 -60.594 67.297 -62.797 L 67.203 -62.906 Q 64.000 -64.906 56.094 -64.906 L 42.906 -64.906 Q 39.203 -64.906 38.500 -63.797 L 38.406 -63.797 L 38.406 -63.703 Q 38.094 -63.297 37.906 -62.500 L 37.906 -62.406 L 37.797 -62.297 Q 37.703 -61.906 37.500 -61.000 L 31.094 -35.594 L 40.203 -35.594 Q 47.500 -35.594 50.000 -38.297 L 50.094 -38.406 Q 51.797 -40.297 53.094 -45.203 Q 53.594 -47.094 54.594 -47.297 Q 55.703 -47.297 55.797 -46.203 Q 55.797 -45.703 55.500 -44.594 L 50.000 -22.906 Q 49.000 -20.906 48.500 -20.797 Q 47.297 -20.797 47.297 -22.000 Q 47.297 -22.406 47.594 -23.094 Q 48.297 -26.094 48.297 -28.000 Q 48.297 -30.906 46.094 -31.797 L 46.094 -31.797 Q 44.203 -32.500 40.000 -32.500 L 30.297 -32.500 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip67 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1239.4, 270.71)">
+<clipPath id="clipe33cfece-4488-42bd-8842-80d9d4849ef4">
+  <path d="M -7082.6 -1546.9 L -7082.6 3618.8 L 3448.9 3618.8 L 3448.9 -1546.9 z"/>
+</clipPath>
+<g clip-path="url(#clip68)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 37.500 -61.406 L 31.000 -35.297 L 42.203 -35.297 Q 53.297 -35.297 59.094 -41.094 Q 63.500 -45.500 64.500 -53.297 L 64.500 -53.406 Q 64.594 -54.500 64.594 -55.297 Q 64.594 -64.203 52.000 -65.094 L 51.797 -65.094 Q 49.906 -65.203 46.406 -65.203 Q 41.203 -65.203 40.297 -65.094 Q 38.500 -64.797 37.906 -62.906 L 37.906 -62.906 Q 37.797 -62.406 37.500 -61.406 z M 51.906 -34.000 L 51.906 -34.000 Q 60.500 -30.797 61.203 -23.500 Q 61.297 -22.906 61.297 -22.203 Q 61.297 -20.297 60.906 -17.500 Q 59.906 -9.5000 59.906 -6.0938 Q 59.906 -.90625 62.500 -.20312 L 62.594 -.20312 Q 63.203 0.0000 63.906 0.0000 Q 68.203 0.0000 71.203 -5.2031 Q 72.297 -6.9062 73.000 -9.0938 Q 73.406 -10.500 74.297 -10.500 Q 75.500 -10.500 75.500 -9.2969 Q 75.500 -7.2969 73.094 -3.7031 Q 71.203 -.79688 68.703 .79688 Q 66.297 2.2031 63.500 2.2031 Q 55.203 2.2031 51.906 -2.7031 Q 50.203 -5.0938 50.203 -8.5938 Q 50.203 -10.703 51.797 -17.094 Q 53.203 -22.500 53.203 -24.000 Q 53.203 -30.203 47.594 -32.203 L 47.594 -32.297 Q 45.297 -33.094 42.297 -33.094 L 30.406 -33.094 L 23.797 -6.5938 L 23.500 -4.9062 Q 23.500 -3.2031 28.094 -3.0938 L 28.094 -3.0938 L 28.094 -3.0938 L 30.000 -3.0938 Q 32.594 -3.0938 32.797 -2.0000 Q 32.797 0.0000 30.797 0.0000 L 18.203 -.29688 L 18.094 -.29688 L 5.5938 0.0000 L 5.5000 0.0000 Q 4.0938 0.0000 4.0938 -1.0938 Q 4.0938 -2.9062 5.5938 -3.0938 L 6.7969 -3.0938 Q 13.297 -3.0938 14.594 -4.5000 Q 15.203 -5.2031 15.797 -7.2969 Q 15.797 -7.4062 15.906 -7.7969 L 29.297 -61.500 Q 29.703 -63.094 29.703 -63.406 Q 29.703 -64.594 28.094 -64.906 L 28.000 -64.906 L 27.906 -64.906 Q 27.594 -64.906 27.000 -65.000 Q 25.297 -65.203 23.203 -65.203 Q 20.594 -65.203 20.406 -66.297 Q 20.406 -68.094 21.906 -68.297 L 23.297 -68.297 L 51.797 -68.297 Q 64.297 -68.297 70.406 -61.703 Q 73.906 -58.094 73.906 -53.297 Q 73.906 -44.594 63.203 -38.406 Q 58.000 -35.297 51.906 -34.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip68 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1258.4, 266.96)">
+<clipPath id="clip9f993acf-d41a-47f9-a965-a895063db32c">
+  <path d="M -5033.7 -1067.8 L -5033.7 2548.2 L 2338.3 2548.2 L 2338.3 -1067.8 z"/>
+</clipPath>
+<g clip-path="url(#clip69)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 68.703 -32.703 L 9.0000 -32.703 Q 5.7969 -32.703 5.5938 -34.703 Q 5.5938 -36.703 8.9062 -36.703 L 68.797 -36.703 Q 72.000 -36.703 72.094 -34.703 Q 72.094 -32.703 68.703 -32.703 z M 68.797 -13.297 L 8.9062 -13.297 Q 5.7031 -13.297 5.5938 -15.297 Q 5.5938 -17.297 9.0000 -17.297 L 68.703 -17.297 Q 71.906 -17.297 72.094 -15.297 Q 72.094 -13.297 68.797 -13.297 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip69 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1284.8, 266.96)">
+<clipPath id="clip654ac145-5445-4c73-a787-4c186b4062c7">
+  <path d="M -5139.3 -1067.8 L -5139.3 2548.2 L 2232.7 2548.2 L 2232.7 -1067.8 z"/>
+</clipPath>
+<g clip-path="url(#clip70)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip70 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1312.3, 266.96)">
+<clipPath id="clip5cc96272-4598-40b0-b61e-6703edc832ab">
+  <path d="M -5249.3 -1067.8 L -5249.3 2548.2 L 2122.7 2548.2 L 2122.7 -1067.8 z"/>
+</clipPath>
+<g clip-path="url(#clip71)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 19.203 -25.000 Q 19.203 -21.703 16.203 -20.203 Q 15.094 -19.703 13.906 -19.703 Q 10.594 -19.703 9.0938 -22.703 Q 8.5938 -23.797 8.5938 -25.000 Q 8.5938 -28.297 11.594 -29.797 Q 12.703 -30.297 13.906 -30.297 Q 17.203 -30.297 18.703 -27.297 Q 19.203 -26.203 19.203 -25.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip71 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1324.8, 266.96)">
+<clipPath id="clipb4b30495-7e06-45c1-bebe-15c6acba7e66">
+  <path d="M -5299.3 -1067.8 L -5299.3 2548.2 L 2072.7 2548.2 L 2072.7 -1067.8 z"/>
+</clipPath>
+<g clip-path="url(#clip72)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 37.297 -37.797 Q 37.797 -41.203 40.406 -42.000 Q 40.906 -42.203 41.500 -42.203 Q 44.094 -42.203 44.406 -39.500 Q 44.406 -38.906 43.703 -36.094 L 40.094 -22.094 Q 38.594 -15.797 37.906 -13.094 Q 36.594 -7.9062 36.594 -5.7031 Q 36.594 -1.0938 39.594 -1.0938 Q 43.406 -1.0938 46.000 -9.0938 Q 46.500 -10.797 47.203 -13.500 Q 48.000 -15.203 48.594 -15.297 Q 49.797 -15.297 49.797 -14.297 Q 49.797 -12.797 48.000 -7.2969 Q 47.406 -5.5938 46.797 -4.4062 Q 44.000 1.0938 39.406 1.0938 Q 33.797 1.0938 31.297 -3.7031 Q 30.594 -4.9062 30.297 -6.4062 Q 24.000 1.0938 17.297 1.0938 Q 9.7969 1.0938 6.2031 -5.7031 Q 4.0000 -9.7031 4.0000 -14.906 Q 4.0000 -25.703 11.500 -34.906 Q 18.500 -43.297 26.703 -44.094 Q 27.406 -44.203 28.094 -44.203 Q 34.203 -44.203 37.297 -37.797 z M 30.797 -11.906 L 30.797 -11.906 L 35.797 -31.500 Q 36.094 -33.000 36.094 -33.203 Q 36.094 -35.297 34.297 -38.297 Q 32.094 -42.000 28.203 -42.000 Q 23.000 -42.000 18.297 -35.203 Q 17.406 -33.906 16.594 -32.406 Q 13.703 -26.594 11.703 -15.906 Q 11.094 -12.500 11.094 -10.500 Q 11.094 -3.7031 14.906 -1.7031 Q 16.000 -1.0938 17.500 -1.0938 Q 23.094 -1.0938 28.797 -8.2031 Q 30.203 -9.7969 30.703 -11.500 L 30.703 -11.594 Q 30.797 -11.797 30.797 -11.906 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip72 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1066.0, 300.23)">
+<clipPath id="clip44e37f7c-6433-47bf-a51c-66444069e7dd">
+  <path d="M -4264.0 -1200.9 L -4264.0 2415.1 L 3108.0 2415.1 L 3108.0 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip73)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip73 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1088.0, 303.98)">
+<clipPath id="clip7dd06dc1-8866-4118-9b0d-9b2348810b5a">
+  <path d="M -6216.9 -1737.1 L -6216.9 3428.7 L 4314.6 3428.7 L 4314.6 -1737.1 z"/>
+</clipPath>
+<g clip-path="url(#clip74)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 44.906 -17.406 L 44.906 -17.406 L 42.094 0.0000 L 5.0000 0.0000 Q 5.0000 -2.5000 5.5938 -3.2031 L 6.0938 -3.7031 L 25.297 -25.094 Q 35.797 -36.906 35.797 -47.203 Q 35.797 -56.094 30.406 -60.703 L 30.297 -60.797 L 30.203 -60.797 Q 27.000 -63.500 22.406 -63.500 Q 15.203 -63.500 10.906 -57.297 Q 9.7031 -55.500 8.9062 -53.297 Q 9.2031 -53.406 10.203 -53.406 Q 14.203 -53.406 15.297 -49.797 L 15.297 -49.703 Q 15.500 -49.000 15.500 -48.203 Q 15.500 -44.203 11.703 -43.094 Q 10.906 -42.906 10.297 -42.906 Q 6.5938 -42.906 5.4062 -46.000 Q 5.0000 -47.094 5.0000 -48.500 Q 5.0000 -56.203 10.906 -61.703 Q 16.203 -66.594 23.703 -66.594 Q 34.703 -66.594 40.797 -59.203 Q 44.297 -54.906 44.797 -49.000 Q 44.906 -48.094 44.906 -47.203 Q 44.906 -39.906 39.406 -33.297 Q 36.500 -29.906 30.406 -24.297 L 24.297 -18.906 L 23.297 -18.000 L 12.703 -7.7031 L 30.703 -7.7031 Q 39.500 -7.7031 40.203 -8.5000 Q 41.203 -9.9062 42.406 -17.406 L 44.906 -17.406 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip74 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1102.3, 300.23)">
+<clipPath id="clipeb9b481d-1b27-4653-aeab-73461273dfec">
+  <path d="M -4409.0 -1200.9 L -4409.0 2415.1 L 2963.0 2415.1 L 2963.0 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip75)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 19.203 -25.000 Q 19.203 -21.703 16.203 -20.203 Q 15.094 -19.703 13.906 -19.703 Q 10.594 -19.703 9.0938 -22.703 Q 8.5938 -23.797 8.5938 -25.000 Q 8.5938 -28.297 11.594 -29.797 Q 12.703 -30.297 13.906 -30.297 Q 17.203 -30.297 18.703 -27.297 Q 19.203 -26.203 19.203 -25.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip75 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1114.8, 300.23)">
+<clipPath id="clip261cdb96-2df6-46a0-a69f-296ef1e099ab">
+  <path d="M -4459.0 -1200.9 L -4459.0 2415.1 L 2913.0 2415.1 L 2913.0 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip76)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 47.094 -37.703 L 47.094 -37.703 L 36.000 6.7031 Q 34.500 12.703 28.203 16.797 Q 22.406 20.500 14.797 20.500 Q 2.5000 20.500 1.5938 15.500 Q 1.5000 15.000 1.5000 14.406 Q 1.5000 10.297 5.2031 8.9062 Q 6.0938 8.5938 6.9062 8.5938 Q 10.000 8.5938 10.594 11.297 Q 10.703 11.703 10.703 12.094 Q 10.703 15.297 7.7031 16.906 Q 7.2031 17.094 6.5938 17.297 Q 9.7031 18.297 14.594 18.297 Q 24.406 18.297 29.000 7.5000 L 32.297 -5.7031 L 32.203 -5.7969 Q 27.703 -.79688 22.094 -.093750 Q 21.297 0.0000 20.594 0.0000 Q 13.594 0.0000 9.7969 -6.0938 Q 7.2969 -10.203 7.2969 -15.797 Q 7.2969 -26.500 14.906 -35.406 Q 21.906 -43.594 30.000 -44.203 L 31.094 -44.203 Q 36.500 -44.203 39.797 -39.094 L 40.406 -37.906 Q 41.297 -41.703 44.500 -42.203 Q 47.094 -42.203 47.406 -39.500 L 47.094 -37.703 z M 34.094 -12.797 L 34.094 -12.797 L 38.906 -31.906 Q 39.203 -33.094 39.203 -33.406 Q 39.203 -35.406 37.500 -38.203 L 37.500 -38.203 Q 36.297 -40.203 34.500 -41.203 Q 33.000 -42.000 31.203 -42.000 Q 26.000 -42.000 21.297 -35.297 Q 20.594 -34.203 20.000 -33.094 Q 16.797 -27.094 14.906 -16.406 Q 14.406 -13.297 14.406 -11.406 Q 14.406 -4.7969 18.203 -2.7969 Q 19.297 -2.2031 20.906 -2.2031 Q 24.797 -2.2031 29.000 -5.7969 Q 33.406 -9.5938 34.094 -12.797 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip76 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1133.1, 300.23)">
+<clipPath id="clip91d871f4-d60b-487a-992a-5dd90f1c0195">
+  <path d="M -4532.6 -1200.9 L -4532.6 2415.1 L 2839.4 2415.1 L 2839.4 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip77)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 66.094 -23.000 L 11.594 -23.000 Q 8.4062 -23.000 8.2969 -25.000 Q 8.2969 -27.000 11.594 -27.000 L 66.094 -27.000 Q 69.297 -27.000 69.406 -25.000 Q 69.406 -23.000 66.094 -23.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip77 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1158.1, 300.23)">
+<clipPath id="clipef5f1a0b-a3a9-443b-b842-70f7899088c3">
+  <path d="M -4632.6 -1200.9 L -4632.6 2415.1 L 2739.4 2415.1 L 2739.4 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip78)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip78 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1180.1, 303.98)">
+<clipPath id="clip56dcc0fa-8ec8-4ce9-9cc6-ec2b6cae2332">
+  <path d="M -6743.4 -1737.1 L -6743.4 3428.7 L 3788.0 3428.7 L 3788.0 -1737.1 z"/>
+</clipPath>
+<g clip-path="url(#clip79)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 29.406 -64.000 L 29.406 -7.9062 Q 29.406 -4.9062 30.594 -4.0938 Q 32.297 -3.0938 38.703 -3.0938 L 41.906 -3.0938 L 41.906 0.0000 Q 38.406 -.29688 25.703 -.29688 Q 13.000 -.29688 9.5000 0.0000 L 9.5000 -3.0938 L 12.703 -3.0938 Q 20.406 -3.0938 21.500 -4.9062 L 21.594 -5.0000 Q 22.000 -5.7969 22.000 -7.9062 L 22.000 -59.703 Q 16.797 -57.094 8.9062 -57.094 L 8.9062 -60.203 Q 20.906 -60.203 27.094 -66.594 Q 29.000 -66.594 29.297 -65.906 L 29.297 -65.906 L 29.297 -65.797 Q 29.406 -65.500 29.406 -64.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip79 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1194.4, 300.23)">
+<clipPath id="clip75a0b45d-cbd7-45a6-a056-5a6c58f50658">
+  <path d="M -4777.6 -1200.9 L -4777.6 2415.1 L 2594.4 2415.1 L 2594.4 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip80)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 19.203 -25.000 Q 19.203 -21.703 16.203 -20.203 Q 15.094 -19.703 13.906 -19.703 Q 10.594 -19.703 9.0938 -22.703 Q 8.5938 -23.797 8.5938 -25.000 Q 8.5938 -28.297 11.594 -29.797 Q 12.703 -30.297 13.906 -30.297 Q 17.203 -30.297 18.703 -27.297 Q 19.203 -26.203 19.203 -25.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip80 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1206.9, 300.23)">
+<clipPath id="clip2b41f9df-f6b0-4400-bc37-b6164f96b94f">
+  <path d="M -4827.6 -1200.9 L -4827.6 2415.1 L 2544.4 2415.1 L 2544.4 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip81)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 47.094 -37.703 L 47.094 -37.703 L 36.000 6.7031 Q 34.500 12.703 28.203 16.797 Q 22.406 20.500 14.797 20.500 Q 2.5000 20.500 1.5938 15.500 Q 1.5000 15.000 1.5000 14.406 Q 1.5000 10.297 5.2031 8.9062 Q 6.0938 8.5938 6.9062 8.5938 Q 10.000 8.5938 10.594 11.297 Q 10.703 11.703 10.703 12.094 Q 10.703 15.297 7.7031 16.906 Q 7.2031 17.094 6.5938 17.297 Q 9.7031 18.297 14.594 18.297 Q 24.406 18.297 29.000 7.5000 L 32.297 -5.7031 L 32.203 -5.7969 Q 27.703 -.79688 22.094 -.093750 Q 21.297 0.0000 20.594 0.0000 Q 13.594 0.0000 9.7969 -6.0938 Q 7.2969 -10.203 7.2969 -15.797 Q 7.2969 -26.500 14.906 -35.406 Q 21.906 -43.594 30.000 -44.203 L 31.094 -44.203 Q 36.500 -44.203 39.797 -39.094 L 40.406 -37.906 Q 41.297 -41.703 44.500 -42.203 Q 47.094 -42.203 47.406 -39.500 L 47.094 -37.703 z M 34.094 -12.797 L 34.094 -12.797 L 38.906 -31.906 Q 39.203 -33.094 39.203 -33.406 Q 39.203 -35.406 37.500 -38.203 L 37.500 -38.203 Q 36.297 -40.203 34.500 -41.203 Q 33.000 -42.000 31.203 -42.000 Q 26.000 -42.000 21.297 -35.297 Q 20.594 -34.203 20.000 -33.094 Q 16.797 -27.094 14.906 -16.406 Q 14.406 -13.297 14.406 -11.406 Q 14.406 -4.7969 18.203 -2.7969 Q 19.297 -2.2031 20.906 -2.2031 Q 24.797 -2.2031 29.000 -5.7969 Q 33.406 -9.5938 34.094 -12.797 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip81 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1225.3, 300.23)">
+<clipPath id="clip12f0a4f3-1871-4c8e-a385-f7430dcfbe8f">
+  <path d="M -4901.2 -1200.9 L -4901.2 2415.1 L 2470.8 2415.1 L 2470.8 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip82)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 19.203 -25.000 Q 19.203 -21.703 16.203 -20.203 Q 15.094 -19.703 13.906 -19.703 Q 10.594 -19.703 9.0938 -22.703 Q 8.5938 -23.797 8.5938 -25.000 Q 8.5938 -28.297 11.594 -29.797 Q 12.703 -30.297 13.906 -30.297 Q 17.203 -30.297 18.703 -27.297 Q 19.203 -26.203 19.203 -25.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip82 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1237.8, 300.23)">
+<clipPath id="clip06a4d3fe-1fea-468a-a69b-15eb1f50c160">
+  <path d="M -4951.2 -1200.9 L -4951.2 2415.1 L 2420.8 2415.1 L 2420.8 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip83)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 23.094 -35.094 L 23.094 -35.094 L 18.906 -18.297 Q 17.500 -12.703 17.500 -9.7969 Q 18.000 -1.4062 24.906 -1.0938 Q 31.703 -1.0938 36.797 -8.7031 Q 37.797 -10.297 37.906 -10.703 Q 38.703 -13.203 40.500 -20.906 L 45.203 -39.594 Q 46.000 -43.094 49.094 -43.094 Q 51.594 -42.594 52.000 -40.406 Q 52.000 -40.594 50.500 -33.703 Q 49.094 -28.594 48.797 -26.906 L 46.000 -16.094 Q 44.000 -7.4062 44.000 -5.7031 Q 44.000 -1.0938 47.000 -1.0938 Q 50.797 -1.0938 53.406 -9.0938 Q 53.906 -10.797 54.594 -13.500 Q 55.406 -15.203 56.000 -15.297 Q 57.203 -15.297 57.203 -14.297 Q 57.203 -12.797 55.406 -7.2969 Q 54.797 -5.5938 54.203 -4.4062 Q 51.406 1.0938 46.797 1.0938 Q 41.297 1.0938 38.797 -3.5000 Q 38.094 -4.7031 37.797 -6.2031 Q 33.094 -.70312 28.500 .59375 Q 26.594 1.0938 24.500 1.0938 Q 18.500 1.0938 14.797 -2.0000 Q 9.7031 18.500 9.2969 19.500 Q 7.9062 21.594 5.7969 21.594 Q 3.5000 21.594 3.0938 19.500 Q 3.0000 19.203 3.0000 18.906 Q 3.0000 18.500 3.2969 17.297 L 17.703 -40.594 Q 18.594 -44.094 21.703 -44.203 Q 24.297 -44.203 24.594 -41.500 Q 24.594 -41.406 23.094 -35.094 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip83 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1258.4, 300.23)">
+<clipPath id="clipe60e51b1-a9a8-43cc-8ead-63c587d41a53">
+  <path d="M -5033.7 -1200.9 L -5033.7 2415.1 L 2338.3 2415.1 L 2338.3 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip84)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 68.703 -32.703 L 9.0000 -32.703 Q 5.7969 -32.703 5.5938 -34.703 Q 5.5938 -36.703 8.9062 -36.703 L 68.797 -36.703 Q 72.000 -36.703 72.094 -34.703 Q 72.094 -32.703 68.703 -32.703 z M 68.797 -13.297 L 8.9062 -13.297 Q 5.7031 -13.297 5.5938 -15.297 Q 5.5938 -17.297 9.0000 -17.297 L 68.703 -17.297 Q 71.906 -17.297 72.094 -15.297 Q 72.094 -13.297 68.797 -13.297 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip84 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1284.8, 300.23)">
+<clipPath id="clip9bdabf1c-51ec-44a8-83d0-8fa0d97c57b2">
+  <path d="M -5139.3 -1200.9 L -5139.3 2415.1 L 2232.7 2415.1 L 2232.7 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip85)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 33.094 24.000 L 33.094 24.000 Q 33.094 25.000 32.094 25.000 Q 30.906 25.000 26.797 20.906 Q 20.594 14.703 16.500 6.2031 Q 9.9062 -7.4062 9.9062 -25.000 Q 9.9062 -41.906 16.203 -55.500 Q 21.406 -66.594 29.406 -73.297 Q 31.500 -75.000 32.094 -75.000 Q 33.094 -75.000 33.094 -74.000 Q 33.094 -73.500 31.797 -72.297 Q 15.703 -55.906 15.703 -25.000 Q 15.703 5.7969 31.406 21.797 Q 33.094 23.500 33.094 24.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip85 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1294.5, 300.23)">
+<clipPath id="clip515cba6b-1cf9-442e-b625-b1c165dbcfb1">
+  <path d="M -5178.2 -1200.9 L -5178.2 2415.1 L 2193.8 2415.1 L 2193.8 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip86)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip86 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1316.5, 303.98)">
+<clipPath id="clipc0200c4b-a59b-40f5-94a8-1539d15224c2">
+  <path d="M -7522.8 -1737.1 L -7522.8 3428.7 L 3008.6 3428.7 L 3008.6 -1737.1 z"/>
+</clipPath>
+<g clip-path="url(#clip87)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 29.406 -64.000 L 29.406 -7.9062 Q 29.406 -4.9062 30.594 -4.0938 Q 32.297 -3.0938 38.703 -3.0938 L 41.906 -3.0938 L 41.906 0.0000 Q 38.406 -.29688 25.703 -.29688 Q 13.000 -.29688 9.5000 0.0000 L 9.5000 -3.0938 L 12.703 -3.0938 Q 20.406 -3.0938 21.500 -4.9062 L 21.594 -5.0000 Q 22.000 -5.7969 22.000 -7.9062 L 22.000 -59.703 Q 16.797 -57.094 8.9062 -57.094 L 8.9062 -60.203 Q 20.906 -60.203 27.094 -66.594 Q 29.000 -66.594 29.297 -65.906 L 29.297 -65.906 L 29.297 -65.797 Q 29.406 -65.500 29.406 -64.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip87 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1330.8, 300.23)">
+<clipPath id="clipa69ea2ff-58a0-4afb-8282-6cfdbcae1f25">
+  <path d="M -5323.2 -1200.9 L -5323.2 2415.1 L 2048.8 2415.1 L 2048.8 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip88)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 40.906 -23.000 L 40.906 5.0000 Q 40.906 8.2031 38.906 8.2969 Q 36.906 8.2969 36.906 5.0000 L 36.906 -23.000 L 8.9062 -23.000 Q 5.7031 -23.000 5.5938 -25.000 Q 5.5938 -27.000 8.9062 -27.000 L 36.906 -27.000 L 36.906 -55.000 Q 36.906 -58.203 38.906 -58.297 Q 40.906 -58.297 40.906 -55.000 L 40.906 -27.000 L 68.797 -27.000 Q 72.000 -27.000 72.094 -25.000 Q 72.094 -23.000 68.797 -23.000 L 40.906 -23.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip88 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1355.8, 300.23)">
+<clipPath id="clip8eb6bf81-6a06-4c90-9548-8c65abbd2501">
+  <path d="M -5423.2 -1200.9 L -5423.2 2415.1 L 1948.8 2415.1 L 1948.8 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip89)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip89 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1377.8, 303.98)">
+<clipPath id="clip953c0d51-59ef-417d-b6bf-624ea22ad27d">
+  <path d="M -7872.9 -1737.1 L -7872.9 3428.7 L 2658.5 3428.7 L 2658.5 -1737.1 z"/>
+</clipPath>
+<g clip-path="url(#clip90)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 44.906 -17.406 L 44.906 -17.406 L 42.094 0.0000 L 5.0000 0.0000 Q 5.0000 -2.5000 5.5938 -3.2031 L 6.0938 -3.7031 L 25.297 -25.094 Q 35.797 -36.906 35.797 -47.203 Q 35.797 -56.094 30.406 -60.703 L 30.297 -60.797 L 30.203 -60.797 Q 27.000 -63.500 22.406 -63.500 Q 15.203 -63.500 10.906 -57.297 Q 9.7031 -55.500 8.9062 -53.297 Q 9.2031 -53.406 10.203 -53.406 Q 14.203 -53.406 15.297 -49.797 L 15.297 -49.703 Q 15.500 -49.000 15.500 -48.203 Q 15.500 -44.203 11.703 -43.094 Q 10.906 -42.906 10.297 -42.906 Q 6.5938 -42.906 5.4062 -46.000 Q 5.0000 -47.094 5.0000 -48.500 Q 5.0000 -56.203 10.906 -61.703 Q 16.203 -66.594 23.703 -66.594 Q 34.703 -66.594 40.797 -59.203 Q 44.297 -54.906 44.797 -49.000 Q 44.906 -48.094 44.906 -47.203 Q 44.906 -39.906 39.406 -33.297 Q 36.500 -29.906 30.406 -24.297 L 24.297 -18.906 L 23.297 -18.000 L 12.703 -7.7031 L 30.703 -7.7031 Q 39.500 -7.7031 40.203 -8.5000 Q 41.203 -9.9062 42.406 -17.406 L 44.906 -17.406 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip90 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1386.5, 300.23)">
+<clipPath id="clipd17f31ea-40c7-4735-a713-04b16c00be11">
+  <path d="M -5546.0 -1200.9 L -5546.0 2415.1 L 1826.0 2415.1 L 1826.0 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip91)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 28.906 -25.000 L 28.906 -25.000 Q 28.906 -8.0938 22.594 5.5000 Q 17.406 16.594 9.4062 23.297 Q 7.2969 25.000 6.7031 25.000 Q 5.7031 25.000 5.7031 24.000 Q 5.7031 23.500 7.0000 22.297 Q 23.094 5.9062 23.094 -25.000 Q 23.094 -55.500 8.0938 -71.203 L 7.5938 -71.703 Q 5.7031 -73.500 5.7031 -74.000 Q 5.7031 -75.000 6.7031 -75.000 Q 7.9062 -75.000 12.000 -70.906 Q 18.203 -64.703 22.297 -56.203 Q 28.906 -42.594 28.906 -25.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip91 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1400.4, 300.23)">
+<clipPath id="clip9fa7f2b5-4d47-476f-ba3c-084e29781ce9">
+  <path d="M -5601.6 -1200.9 L -5601.6 2415.1 L 1770.4 2415.1 L 1770.4 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip92)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 19.203 -25.000 Q 19.203 -21.703 16.203 -20.203 Q 15.094 -19.703 13.906 -19.703 Q 10.594 -19.703 9.0938 -22.703 Q 8.5938 -23.797 8.5938 -25.000 Q 8.5938 -28.297 11.594 -29.797 Q 12.703 -30.297 13.906 -30.297 Q 17.203 -30.297 18.703 -27.297 Q 19.203 -26.203 19.203 -25.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip92 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1412.9, 300.23)">
+<clipPath id="clip669460a6-5baf-44ec-bc22-a67d87abcb6f">
+  <path d="M -5651.6 -1200.9 L -5651.6 2415.1 L 1720.4 2415.1 L 1720.4 -1200.9 z"/>
+</clipPath>
+<g clip-path="url(#clip93)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 37.297 -37.797 Q 37.797 -41.203 40.406 -42.000 Q 40.906 -42.203 41.500 -42.203 Q 44.094 -42.203 44.406 -39.500 Q 44.406 -38.906 43.703 -36.094 L 40.094 -22.094 Q 38.594 -15.797 37.906 -13.094 Q 36.594 -7.9062 36.594 -5.7031 Q 36.594 -1.0938 39.594 -1.0938 Q 43.406 -1.0938 46.000 -9.0938 Q 46.500 -10.797 47.203 -13.500 Q 48.000 -15.203 48.594 -15.297 Q 49.797 -15.297 49.797 -14.297 Q 49.797 -12.797 48.000 -7.2969 Q 47.406 -5.5938 46.797 -4.4062 Q 44.000 1.0938 39.406 1.0938 Q 33.797 1.0938 31.297 -3.7031 Q 30.594 -4.9062 30.297 -6.4062 Q 24.000 1.0938 17.297 1.0938 Q 9.7969 1.0938 6.2031 -5.7031 Q 4.0000 -9.7031 4.0000 -14.906 Q 4.0000 -25.703 11.500 -34.906 Q 18.500 -43.297 26.703 -44.094 Q 27.406 -44.203 28.094 -44.203 Q 34.203 -44.203 37.297 -37.797 z M 30.797 -11.906 L 30.797 -11.906 L 35.797 -31.500 Q 36.094 -33.000 36.094 -33.203 Q 36.094 -35.297 34.297 -38.297 Q 32.094 -42.000 28.203 -42.000 Q 23.000 -42.000 18.297 -35.203 Q 17.406 -33.906 16.594 -32.406 Q 13.703 -26.594 11.703 -15.906 Q 11.094 -12.500 11.094 -10.500 Q 11.094 -3.7031 14.906 -1.7031 Q 16.000 -1.0938 17.500 -1.0938 Q 23.094 -1.0938 28.797 -8.2031 Q 30.203 -9.7969 30.703 -11.500 L 30.703 -11.594 Q 30.797 -11.797 30.797 -11.906 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip93 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1205.9, 352.92)">
+<clipPath id="clipaa0e6e62-16ed-4762-8c05-53a6da056395">
+  <path d="M -4823.4 -1411.7 L -4823.4 2204.3 L 2548.6 2204.3 L 2548.6 -1411.7 z"/>
+</clipPath>
+<g clip-path="url(#clip94)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 85.797 -23.000 L 8.9062 -23.000 Q 5.9062 -23.500 5.5938 -25.000 Q 5.5938 -27.000 8.9062 -27.000 L 85.797 -27.000 Q 79.000 -32.000 75.594 -39.906 L 75.500 -40.000 Q 75.000 -41.297 75.000 -41.594 Q 75.000 -42.797 76.500 -42.797 Q 77.594 -42.797 78.203 -41.406 Q 82.594 -31.500 91.797 -26.797 L 91.906 -26.797 L 92.000 -26.703 L 92.094 -26.703 Q 92.797 -26.297 93.500 -26.000 Q 93.906 -26.000 94.203 -25.000 Q 94.203 -24.297 93.297 -23.797 Q 93.094 -23.797 92.797 -23.594 Q 82.906 -18.906 78.297 -8.5938 L 78.297 -8.5938 Q 78.203 -8.5000 78.094 -8.2031 Q 77.594 -7.2031 76.500 -7.2031 Q 75.000 -7.2031 75.000 -8.4062 Q 75.000 -9.9062 77.906 -14.406 Q 81.203 -19.594 85.797 -23.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip94 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1237.8, 352.92)">
+<clipPath id="clip81a6a189-878c-4650-aec4-e3ff1ab712f1">
+  <path d="M -4951.2 -1411.7 L -4951.2 2204.3 L 2420.8 2204.3 L 2420.8 -1411.7 z"/>
+</clipPath>
+<g clip-path="url(#clip95)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 23.094 -35.094 L 23.094 -35.094 L 18.906 -18.297 Q 17.500 -12.703 17.500 -9.7969 Q 18.000 -1.4062 24.906 -1.0938 Q 31.703 -1.0938 36.797 -8.7031 Q 37.797 -10.297 37.906 -10.703 Q 38.703 -13.203 40.500 -20.906 L 45.203 -39.594 Q 46.000 -43.094 49.094 -43.094 Q 51.594 -42.594 52.000 -40.406 Q 52.000 -40.594 50.500 -33.703 Q 49.094 -28.594 48.797 -26.906 L 46.000 -16.094 Q 44.000 -7.4062 44.000 -5.7031 Q 44.000 -1.0938 47.000 -1.0938 Q 50.797 -1.0938 53.406 -9.0938 Q 53.906 -10.797 54.594 -13.500 Q 55.406 -15.203 56.000 -15.297 Q 57.203 -15.297 57.203 -14.297 Q 57.203 -12.797 55.406 -7.2969 Q 54.797 -5.5938 54.203 -4.4062 Q 51.406 1.0938 46.797 1.0938 Q 41.297 1.0938 38.797 -3.5000 Q 38.094 -4.7031 37.797 -6.2031 Q 33.094 -.70312 28.500 .59375 Q 26.594 1.0938 24.500 1.0938 Q 18.500 1.0938 14.797 -2.0000 Q 9.7031 18.500 9.2969 19.500 Q 7.9062 21.594 5.7969 21.594 Q 3.5000 21.594 3.0938 19.500 Q 3.0000 19.203 3.0000 18.906 Q 3.0000 18.500 3.2969 17.297 L 17.703 -40.594 Q 18.594 -44.094 21.703 -44.203 Q 24.297 -44.203 24.594 -41.500 Q 24.594 -41.406 23.094 -35.094 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip95 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1258.4, 352.92)">
+<clipPath id="clip35037526-5d3a-4751-9a38-df2542267111">
+  <path d="M -5033.7 -1411.7 L -5033.7 2204.3 L 2338.3 2204.3 L 2338.3 -1411.7 z"/>
+</clipPath>
+<g clip-path="url(#clip96)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 68.703 -32.703 L 9.0000 -32.703 Q 5.7969 -32.703 5.5938 -34.703 Q 5.5938 -36.703 8.9062 -36.703 L 68.797 -36.703 Q 72.000 -36.703 72.094 -34.703 Q 72.094 -32.703 68.703 -32.703 z M 68.797 -13.297 L 8.9062 -13.297 Q 5.7031 -13.297 5.5938 -15.297 Q 5.5938 -17.297 9.0000 -17.297 L 68.703 -17.297 Q 71.906 -17.297 72.094 -15.297 Q 72.094 -13.297 68.797 -13.297 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip96 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1286.0, 336.01)">
+<clipPath id="clip1c679d9d-ddef-4ec6-81ca-8c449d946e48">
+  <path d="M -5144.1 -1344.0 L -5144.1 2272.0 L 2227.9 2272.0 L 2227.9 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip97)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 33.094 24.000 L 33.094 24.000 Q 33.094 25.000 32.094 25.000 Q 30.906 25.000 26.797 20.906 Q 20.594 14.703 16.500 6.2031 Q 9.9062 -7.4062 9.9062 -25.000 Q 9.9062 -41.906 16.203 -55.500 Q 21.406 -66.594 29.406 -73.297 Q 31.500 -75.000 32.094 -75.000 Q 33.094 -75.000 33.094 -74.000 Q 33.094 -73.500 31.797 -72.297 Q 15.703 -55.906 15.703 -25.000 Q 15.703 5.7969 31.406 21.797 Q 33.094 23.500 33.094 24.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip97 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1295.7, 336.01)">
+<clipPath id="clipc9aeb1ad-661f-4637-bd7a-5850cb7c7a2f">
+  <path d="M -5183.0 -1344.0 L -5183.0 2272.0 L 2189.0 2272.0 L 2189.0 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip98)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip98 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1317.7, 339.76)">
+<clipPath id="clipb91d9345-1fbd-4c05-9934-4b641f4f5d8f">
+  <path d="M -7529.7 -1941.5 L -7529.7 3224.2 L 3001.8 3224.2 L 3001.8 -1941.5 z"/>
+</clipPath>
+<g clip-path="url(#clip99)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 29.406 -64.000 L 29.406 -7.9062 Q 29.406 -4.9062 30.594 -4.0938 Q 32.297 -3.0938 38.703 -3.0938 L 41.906 -3.0938 L 41.906 0.0000 Q 38.406 -.29688 25.703 -.29688 Q 13.000 -.29688 9.5000 0.0000 L 9.5000 -3.0938 L 12.703 -3.0938 Q 20.406 -3.0938 21.500 -4.9062 L 21.594 -5.0000 Q 22.000 -5.7969 22.000 -7.9062 L 22.000 -59.703 Q 16.797 -57.094 8.9062 -57.094 L 8.9062 -60.203 Q 20.906 -60.203 27.094 -66.594 Q 29.000 -66.594 29.297 -65.906 L 29.297 -65.906 L 29.297 -65.797 Q 29.406 -65.500 29.406 -64.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip99 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1332.0, 336.01)">
+<clipPath id="clip7249d7e3-ccaf-4cab-a16e-21542641cf37">
+  <path d="M -5328.0 -1344.0 L -5328.0 2272.0 L 2044.0 2272.0 L 2044.0 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip100)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 40.906 -23.000 L 40.906 5.0000 Q 40.906 8.2031 38.906 8.2969 Q 36.906 8.2969 36.906 5.0000 L 36.906 -23.000 L 8.9062 -23.000 Q 5.7031 -23.000 5.5938 -25.000 Q 5.5938 -27.000 8.9062 -27.000 L 36.906 -27.000 L 36.906 -55.000 Q 36.906 -58.203 38.906 -58.297 Q 40.906 -58.297 40.906 -55.000 L 40.906 -27.000 L 68.797 -27.000 Q 72.000 -27.000 72.094 -25.000 Q 72.094 -23.000 68.797 -23.000 L 40.906 -23.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip100 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1357.0, 336.01)">
+<clipPath id="clipd147f8f6-7ebc-4f90-9a53-eaa56b2497b5">
+  <path d="M -5428.0 -1344.0 L -5428.0 2272.0 L 1944.0 2272.0 L 1944.0 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip101)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip101 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1379.0, 339.76)">
+<clipPath id="clip58c20502-1775-4c1d-b908-903380cf1c68">
+  <path d="M -7879.7 -1941.5 L -7879.7 3224.2 L 2651.7 3224.2 L 2651.7 -1941.5 z"/>
+</clipPath>
+<g clip-path="url(#clip102)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 44.906 -17.406 L 44.906 -17.406 L 42.094 0.0000 L 5.0000 0.0000 Q 5.0000 -2.5000 5.5938 -3.2031 L 6.0938 -3.7031 L 25.297 -25.094 Q 35.797 -36.906 35.797 -47.203 Q 35.797 -56.094 30.406 -60.703 L 30.297 -60.797 L 30.203 -60.797 Q 27.000 -63.500 22.406 -63.500 Q 15.203 -63.500 10.906 -57.297 Q 9.7031 -55.500 8.9062 -53.297 Q 9.2031 -53.406 10.203 -53.406 Q 14.203 -53.406 15.297 -49.797 L 15.297 -49.703 Q 15.500 -49.000 15.500 -48.203 Q 15.500 -44.203 11.703 -43.094 Q 10.906 -42.906 10.297 -42.906 Q 6.5938 -42.906 5.4062 -46.000 Q 5.0000 -47.094 5.0000 -48.500 Q 5.0000 -56.203 10.906 -61.703 Q 16.203 -66.594 23.703 -66.594 Q 34.703 -66.594 40.797 -59.203 Q 44.297 -54.906 44.797 -49.000 Q 44.906 -48.094 44.906 -47.203 Q 44.906 -39.906 39.406 -33.297 Q 36.500 -29.906 30.406 -24.297 L 24.297 -18.906 L 23.297 -18.000 L 12.703 -7.7031 L 30.703 -7.7031 Q 39.500 -7.7031 40.203 -8.5000 Q 41.203 -9.9062 42.406 -17.406 L 44.906 -17.406 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip102 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1387.7, 336.01)">
+<clipPath id="clipac58c77e-6e37-4943-852e-bb5b28e93fba">
+  <path d="M -5550.8 -1344.0 L -5550.8 2272.0 L 1821.2 2272.0 L 1821.2 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip103)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 28.906 -25.000 L 28.906 -25.000 Q 28.906 -8.0938 22.594 5.5000 Q 17.406 16.594 9.4062 23.297 Q 7.2969 25.000 6.7031 25.000 Q 5.7031 25.000 5.7031 24.000 Q 5.7031 23.500 7.0000 22.297 Q 23.094 5.9062 23.094 -25.000 Q 23.094 -55.500 8.0938 -71.203 L 7.5938 -71.703 Q 5.7031 -73.500 5.7031 -74.000 Q 5.7031 -75.000 6.7031 -75.000 Q 7.9062 -75.000 12.000 -70.906 Q 18.203 -64.703 22.297 -56.203 Q 28.906 -42.594 28.906 -25.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip103 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1397.4, 336.01)">
+<clipPath id="clipff9c08a5-1d94-448e-b5b8-cdcc47f7b2e6">
+  <path d="M -5589.7 -1344.0 L -5589.7 2272.0 L 1782.3 2272.0 L 1782.3 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip104)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 37.297 -37.797 Q 37.797 -41.203 40.406 -42.000 Q 40.906 -42.203 41.500 -42.203 Q 44.094 -42.203 44.406 -39.500 Q 44.406 -38.906 43.703 -36.094 L 40.094 -22.094 Q 38.594 -15.797 37.906 -13.094 Q 36.594 -7.9062 36.594 -5.7031 Q 36.594 -1.0938 39.594 -1.0938 Q 43.406 -1.0938 46.000 -9.0938 Q 46.500 -10.797 47.203 -13.500 Q 48.000 -15.203 48.594 -15.297 Q 49.797 -15.297 49.797 -14.297 Q 49.797 -12.797 48.000 -7.2969 Q 47.406 -5.5938 46.797 -4.4062 Q 44.000 1.0938 39.406 1.0938 Q 33.797 1.0938 31.297 -3.7031 Q 30.594 -4.9062 30.297 -6.4062 Q 24.000 1.0938 17.297 1.0938 Q 9.7969 1.0938 6.2031 -5.7031 Q 4.0000 -9.7031 4.0000 -14.906 Q 4.0000 -25.703 11.500 -34.906 Q 18.500 -43.297 26.703 -44.094 Q 27.406 -44.203 28.094 -44.203 Q 34.203 -44.203 37.297 -37.797 z M 30.797 -11.906 L 30.797 -11.906 L 35.797 -31.500 Q 36.094 -33.000 36.094 -33.203 Q 36.094 -35.297 34.297 -38.297 Q 32.094 -42.000 28.203 -42.000 Q 23.000 -42.000 18.297 -35.203 Q 17.406 -33.906 16.594 -32.406 Q 13.703 -26.594 11.703 -15.906 Q 11.094 -12.500 11.094 -10.500 Q 11.094 -3.7031 14.906 -1.7031 Q 16.000 -1.0938 17.500 -1.0938 Q 23.094 -1.0938 28.797 -8.2031 Q 30.203 -9.7969 30.703 -11.500 L 30.703 -11.594 Q 30.797 -11.797 30.797 -11.906 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip104 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1416.2, 336.01)">
+<clipPath id="clip751b3d12-03ed-49df-b349-02f168cc9a32">
+  <path d="M -5664.8 -1344.0 L -5664.8 2272.0 L 1707.2 2272.0 L 1707.2 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip105)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 66.094 -23.000 L 11.594 -23.000 Q 8.4062 -23.000 8.2969 -25.000 Q 8.2969 -27.000 11.594 -27.000 L 66.094 -27.000 Q 69.297 -27.000 69.406 -25.000 Q 69.406 -23.000 66.094 -23.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip105 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1441.2, 336.01)">
+<clipPath id="clipbee091b6-5c25-4354-a6d3-fe87f9cb44a2">
+  <path d="M -5764.8 -1344.0 L -5764.8 2272.0 L 1607.2 2272.0 L 1607.2 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip106)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip106 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1463.2, 339.76)">
+<clipPath id="clip8b7a4a19-03dd-461f-9a4c-95c0667b6e26">
+  <path d="M -8360.9 -1941.5 L -8360.9 3224.2 L 2170.5 3224.2 L 2170.5 -1941.5 z"/>
+</clipPath>
+<g clip-path="url(#clip107)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 44.906 -17.406 L 44.906 -17.406 L 42.094 0.0000 L 5.0000 0.0000 Q 5.0000 -2.5000 5.5938 -3.2031 L 6.0938 -3.7031 L 25.297 -25.094 Q 35.797 -36.906 35.797 -47.203 Q 35.797 -56.094 30.406 -60.703 L 30.297 -60.797 L 30.203 -60.797 Q 27.000 -63.500 22.406 -63.500 Q 15.203 -63.500 10.906 -57.297 Q 9.7031 -55.500 8.9062 -53.297 Q 9.2031 -53.406 10.203 -53.406 Q 14.203 -53.406 15.297 -49.797 L 15.297 -49.703 Q 15.500 -49.000 15.500 -48.203 Q 15.500 -44.203 11.703 -43.094 Q 10.906 -42.906 10.297 -42.906 Q 6.5938 -42.906 5.4062 -46.000 Q 5.0000 -47.094 5.0000 -48.500 Q 5.0000 -56.203 10.906 -61.703 Q 16.203 -66.594 23.703 -66.594 Q 34.703 -66.594 40.797 -59.203 Q 44.297 -54.906 44.797 -49.000 Q 44.906 -48.094 44.906 -47.203 Q 44.906 -39.906 39.406 -33.297 Q 36.500 -29.906 30.406 -24.297 L 24.297 -18.906 L 23.297 -18.000 L 12.703 -7.7031 L 30.703 -7.7031 Q 39.500 -7.7031 40.203 -8.5000 Q 41.203 -9.9062 42.406 -17.406 L 44.906 -17.406 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip107 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1471.9, 336.01)">
+<clipPath id="clip9d928bd1-4b9c-4f8b-b0b1-77d5fe271e15">
+  <path d="M -5887.6 -1344.0 L -5887.6 2272.0 L 1484.4 2272.0 L 1484.4 -1344.0 z"/>
+</clipPath>
+<g clip-path="url(#clip108)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 47.094 -37.703 L 47.094 -37.703 L 36.000 6.7031 Q 34.500 12.703 28.203 16.797 Q 22.406 20.500 14.797 20.500 Q 2.5000 20.500 1.5938 15.500 Q 1.5000 15.000 1.5000 14.406 Q 1.5000 10.297 5.2031 8.9062 Q 6.0938 8.5938 6.9062 8.5938 Q 10.000 8.5938 10.594 11.297 Q 10.703 11.703 10.703 12.094 Q 10.703 15.297 7.7031 16.906 Q 7.2031 17.094 6.5938 17.297 Q 9.7031 18.297 14.594 18.297 Q 24.406 18.297 29.000 7.5000 L 32.297 -5.7031 L 32.203 -5.7969 Q 27.703 -.79688 22.094 -.093750 Q 21.297 0.0000 20.594 0.0000 Q 13.594 0.0000 9.7969 -6.0938 Q 7.2969 -10.203 7.2969 -15.797 Q 7.2969 -26.500 14.906 -35.406 Q 21.906 -43.594 30.000 -44.203 L 31.094 -44.203 Q 36.500 -44.203 39.797 -39.094 L 40.406 -37.906 Q 41.297 -41.703 44.500 -42.203 Q 47.094 -42.203 47.406 -39.500 L 47.094 -37.703 z M 34.094 -12.797 L 34.094 -12.797 L 38.906 -31.906 Q 39.203 -33.094 39.203 -33.406 Q 39.203 -35.406 37.500 -38.203 L 37.500 -38.203 Q 36.297 -40.203 34.500 -41.203 Q 33.000 -42.000 31.203 -42.000 Q 26.000 -42.000 21.297 -35.297 Q 20.594 -34.203 20.000 -33.094 Q 16.797 -27.094 14.906 -16.406 Q 14.406 -13.297 14.406 -11.406 Q 14.406 -4.7969 18.203 -2.7969 Q 19.297 -2.2031 20.906 -2.2031 Q 24.797 -2.2031 29.000 -5.7969 Q 33.406 -9.5938 34.094 -12.797 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip108 -->
+</g> <!-- transform -->
+<g transform="matrix(25.000, 0.0000, 0.0000, 25.000, 0.0000, 0.0000)">
+<clipPath id="clip2df4f149-7013-45a9-9958-8d45f7e44e6d">
+  <path d="M 0.0000 0.0000 L 0.0000 36.160 L 73.720 36.160 L 73.720 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip109)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 51.441 13.847 L 59.389 13.847 L 59.389 13.887 L 51.441 13.887 L 51.441 13.847 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip109 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1363.6, 370.07)">
+<clipPath id="clipe9514879-89ac-40de-ad94-308f08227720">
+  <path d="M -5454.5 -1480.3 L -5454.5 2135.7 L 1917.5 2135.7 L 1917.5 -1480.3 z"/>
+</clipPath>
+<g clip-path="url(#clip110)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 8.7969 -5.9062 L 8.7969 -5.9062 L 14.594 -29.000 Q 16.203 -35.406 16.203 -37.406 Q 16.203 -42.000 13.094 -42.000 Q 9.0000 -42.000 6.4062 -32.500 Q 6.0938 -31.406 5.7969 -30.094 Q 4.7031 -27.906 4.0938 -27.797 Q 2.9062 -27.797 2.9062 -28.797 Q 2.9062 -30.406 4.7969 -35.594 Q 5.4062 -37.297 6.0000 -38.500 Q 8.4062 -43.406 12.000 -44.094 Q 12.703 -44.203 13.406 -44.203 Q 18.797 -44.203 21.406 -39.703 Q 22.406 -37.797 22.594 -35.500 Q 29.000 -44.203 38.203 -44.203 Q 43.297 -44.203 46.406 -41.594 Q 49.203 -39.203 49.594 -34.500 Q 56.406 -44.203 65.906 -44.203 Q 74.797 -44.203 76.906 -37.297 L 76.906 -37.203 Q 77.406 -35.500 77.406 -33.500 Q 77.406 -28.203 71.297 -11.500 Q 69.500 -7.0938 69.500 -4.4062 Q 69.500 -1.0938 71.906 -1.0938 Q 78.094 -1.0938 81.703 -12.094 L 82.094 -13.500 Q 82.594 -15.094 83.094 -15.203 L 83.094 -15.297 L 83.594 -15.297 Q 84.797 -15.297 84.797 -14.297 Q 84.797 -12.594 82.703 -8.0000 Q 78.406 1.0938 71.703 1.0938 Q 66.594 1.0938 64.406 -3.2031 Q 63.500 -5.0000 63.500 -7.0938 Q 63.500 -9.0938 64.797 -12.594 Q 71.000 -29.000 71.000 -35.000 Q 71.000 -42.000 65.594 -42.000 Q 56.797 -42.000 51.000 -32.500 Q 49.406 -30.000 49.094 -28.703 Q 48.797 -27.406 43.094 -4.5938 Q 42.000 -.29688 40.594 .59375 L 40.500 .70312 L 40.406 .70312 Q 39.703 1.0938 38.594 1.0938 Q 36.094 .59375 35.703 -1.5938 L 37.000 -7.5000 L 39.000 -15.094 L 41.797 -26.703 Q 43.297 -32.297 43.297 -35.000 Q 43.297 -42.000 37.906 -42.000 Q 28.906 -42.000 22.797 -32.000 Q 22.094 -30.906 21.594 -29.797 L 20.297 -24.797 Q 19.797 -22.500 18.594 -18.094 L 16.406 -9.0938 Q 14.703 -2.2031 14.500 -1.7031 Q 13.594 .90625 10.797 1.0938 Q 8.2969 .59375 7.9062 -1.5938 Q 7.9062 -1.4062 8.7969 -5.9062 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip110 -->
+</g> <!-- transform -->
+<g transform="matrix(.17500, 0.0000, 0.0000, .17500, 1385.6, 373.82)">
+<clipPath id="clip72a3fa5d-bfff-47fb-ab88-84c15711ca8e">
+  <path d="M -7917.5 -2136.1 L -7917.5 3029.6 L 2613.9 3029.6 L 2613.9 -2136.1 z"/>
+</clipPath>
+<g clip-path="url(#clip111)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 29.406 -64.000 L 29.406 -7.9062 Q 29.406 -4.9062 30.594 -4.0938 Q 32.297 -3.0938 38.703 -3.0938 L 41.906 -3.0938 L 41.906 0.0000 Q 38.406 -.29688 25.703 -.29688 Q 13.000 -.29688 9.5000 0.0000 L 9.5000 -3.0938 L 12.703 -3.0938 Q 20.406 -3.0938 21.500 -4.9062 L 21.594 -5.0000 Q 22.000 -5.7969 22.000 -7.9062 L 22.000 -59.703 Q 16.797 -57.094 8.9062 -57.094 L 8.9062 -60.203 Q 20.906 -60.203 27.094 -66.594 Q 29.000 -66.594 29.297 -65.906 L 29.297 -65.906 L 29.297 -65.797 Q 29.406 -65.500 29.406 -64.000 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip111 -->
+</g> <!-- transform -->
+<g transform="matrix(.25000, 0.0000, 0.0000, .25000, 1394.3, 370.07)">
+<clipPath id="clip4ae81952-8102-4759-816e-3155535042c8">
+  <path d="M -5577.3 -1480.3 L -5577.3 2135.7 L 1794.7 2135.7 L 1794.7 -1480.3 z"/>
+</clipPath>
+<g clip-path="url(#clip112)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 47.094 -37.703 L 47.094 -37.703 L 36.000 6.7031 Q 34.500 12.703 28.203 16.797 Q 22.406 20.500 14.797 20.500 Q 2.5000 20.500 1.5938 15.500 Q 1.5000 15.000 1.5000 14.406 Q 1.5000 10.297 5.2031 8.9062 Q 6.0938 8.5938 6.9062 8.5938 Q 10.000 8.5938 10.594 11.297 Q 10.703 11.703 10.703 12.094 Q 10.703 15.297 7.7031 16.906 Q 7.2031 17.094 6.5938 17.297 Q 9.7031 18.297 14.594 18.297 Q 24.406 18.297 29.000 7.5000 L 32.297 -5.7031 L 32.203 -5.7969 Q 27.703 -.79688 22.094 -.093750 Q 21.297 0.0000 20.594 0.0000 Q 13.594 0.0000 9.7969 -6.0938 Q 7.2969 -10.203 7.2969 -15.797 Q 7.2969 -26.500 14.906 -35.406 Q 21.906 -43.594 30.000 -44.203 L 31.094 -44.203 Q 36.500 -44.203 39.797 -39.094 L 40.406 -37.906 Q 41.297 -41.703 44.500 -42.203 Q 47.094 -42.203 47.406 -39.500 L 47.094 -37.703 z M 34.094 -12.797 L 34.094 -12.797 L 38.906 -31.906 Q 39.203 -33.094 39.203 -33.406 Q 39.203 -35.406 37.500 -38.203 L 37.500 -38.203 Q 36.297 -40.203 34.500 -41.203 Q 33.000 -42.000 31.203 -42.000 Q 26.000 -42.000 21.297 -35.297 Q 20.594 -34.203 20.000 -33.094 Q 16.797 -27.094 14.906 -16.406 Q 14.406 -13.297 14.406 -11.406 Q 14.406 -4.7969 18.203 -2.7969 Q 19.297 -2.2031 20.906 -2.2031 Q 24.797 -2.2031 29.000 -5.7969 Q 33.406 -9.5938 34.094 -12.797 z"/>
+<title>F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}</title>
+<desc>Text1 = “F_R = ? \\&#xa;s = ~\dots \\&#xa;t = ~\dots \\&#xa;\begin{align}&#xa;F_G - F_R &amp;= m\cdot a \\&#xa;m_2 \cdot g - m_1 \cdot g \cdot \mu &amp;= (m_1 + m_2) \cdot a \\&#xa;\rightarrow \mu &amp;= \frac{ (m_1+m_2)a - m_2g }{ m_1g }&#xa;\end{align}”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip112 -->
+</g> <!-- transform -->
+<clipPath id="clip3c1e9524-e6ac-4eae-89a5-2035ba21c582">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip113)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 402.77 111.27 Q 404.22 111.27 404.94 112.02 Q 405.66 112.75 405.66 114.42 L 405.66 120.00 L 404.27 120.00 L 404.27 114.48 Q 404.27 112.45 402.53 112.45 Q 401.28 112.45 400.73 113.17 Q 400.20 113.89 400.20 115.27 L 400.20 120.00 L 398.81 120.00 L 398.81 114.48 Q 398.81 112.45 397.06 112.45 Q 395.77 112.45 395.27 113.25 Q 394.77 114.05 394.77 115.55 L 394.77 120.00 L 393.36 120.00 L 393.36 111.42 L 394.50 111.42 L 394.70 112.59 L 394.78 112.59 Q 395.19 111.92 395.86 111.59 Q 396.55 111.27 397.31 111.27 Q 399.33 111.27 399.94 112.70 L 400.02 112.70 Q 400.45 111.97 401.19 111.62 Q 401.94 111.27 402.77 111.27 z"/>
+<title>m_1</title>
+<desc>Text2 = “m_1”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip113 -->
+<clipPath id="clipc4081cbe-5ebf-4427-a83c-df2334005f46">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip114)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 411.93 127.00 L 410.73 127.00 L 410.73 120.02 Q 410.73 119.41 410.74 119.05 Q 410.76 118.69 410.79 118.30 Q 410.55 118.52 410.37 118.67 Q 410.19 118.83 409.91 119.06 L 408.85 119.94 L 408.21 119.11 L 410.91 117.00 L 411.93 117.00 L 411.93 127.00 z"/>
+<title>m_1</title>
+<desc>Text2 = “m_1”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip114 -->
+<clipPath id="clip148960b7-91db-470f-8e03-43acf7e729fd">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip115)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 911.77 514.27 Q 913.22 514.27 913.94 515.02 Q 914.66 515.75 914.66 517.42 L 914.66 523.00 L 913.27 523.00 L 913.27 517.48 Q 913.27 515.45 911.53 515.45 Q 910.28 515.45 909.73 516.17 Q 909.20 516.89 909.20 518.27 L 909.20 523.00 L 907.81 523.00 L 907.81 517.48 Q 907.81 515.45 906.06 515.45 Q 904.77 515.45 904.27 516.25 Q 903.77 517.05 903.77 518.55 L 903.77 523.00 L 902.36 523.00 L 902.36 514.42 L 903.50 514.42 L 903.70 515.59 L 903.78 515.59 Q 904.19 514.92 904.86 514.59 Q 905.55 514.27 906.31 514.27 Q 908.33 514.27 908.94 515.70 L 909.02 515.70 Q 909.45 514.97 910.19 514.62 Q 910.94 514.27 911.77 514.27 z"/>
+<title>m_2</title>
+<desc>Text3 = “m_2”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip115 -->
+<clipPath id="clip7aef1a5c-34e2-43e0-bce8-fecb96d7c337">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip116)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 923.24 530.00 L 916.63 530.00 L 916.63 528.98 L 919.26 526.33 Q 920.01 525.58 920.52 525.00 Q 921.04 524.41 921.30 523.84 Q 921.57 523.27 921.57 522.59 Q 921.57 521.77 921.09 521.34 Q 920.60 520.91 919.80 520.91 Q 919.09 520.91 918.52 521.17 Q 917.98 521.42 917.40 521.86 L 916.74 521.05 Q 917.34 520.55 918.09 520.20 Q 918.85 519.86 919.80 519.86 Q 921.21 519.86 922.02 520.58 Q 922.84 521.28 922.84 522.53 Q 922.84 523.31 922.51 524.00 Q 922.19 524.69 921.62 525.36 Q 921.04 526.02 920.27 526.77 L 918.18 528.83 L 918.18 528.88 L 923.24 528.88 L 923.24 530.00 z"/>
+<title>m_2</title>
+<desc>Text3 = “m_2”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip116 -->
+<clipPath id="clip084c4610-0a25-41ea-a9a9-fcf406063493">
+  <path d="M 0.0000 0.0000 L 0.0000 904.00 L 1843.0 904.00 L 1843.0 0.0000 z"/>
+</clipPath>
+<g clip-path="url(#clip117)">
+<g fill="#000000" fill-rule="nonzero" fill-opacity="1.0000" stroke="none">
+  <path d="M 693.94 194.62 Q 693.94 195.88 693.02 196.52 Q 692.09 197.16 690.52 197.16 Q 689.62 197.16 688.97 197.02 Q 688.33 196.88 687.83 196.61 L 687.83 195.34 Q 688.34 195.59 689.06 195.81 Q 689.80 196.03 690.55 196.03 Q 691.62 196.03 692.09 195.69 Q 692.58 195.34 692.58 194.77 Q 692.58 194.44 692.41 194.19 Q 692.23 193.92 691.77 193.67 Q 691.31 193.42 690.47 193.09 Q 689.64 192.78 689.05 192.47 Q 688.45 192.14 688.12 191.69 Q 687.81 191.23 687.81 190.53 Q 687.81 189.45 688.70 188.86 Q 689.59 188.27 691.03 188.27 Q 691.81 188.27 692.48 188.42 Q 693.17 188.56 693.77 188.84 L 693.28 189.95 Q 692.75 189.73 692.16 189.58 Q 691.56 189.42 690.94 189.42 Q 690.08 189.42 689.61 189.70 Q 689.16 189.97 689.16 190.45 Q 689.16 190.81 689.36 191.06 Q 689.58 191.30 690.06 191.53 Q 690.55 191.77 691.38 192.09 Q 692.19 192.39 692.77 192.72 Q 693.34 193.03 693.64 193.48 Q 693.94 193.94 693.94 194.62 z"/>
+<title>s</title>
+<desc>Text4 = “s”</desc>
+
+</g> <!-- drawing style -->
+</g> <!-- clip117 -->
+</g><!-- layer0 -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

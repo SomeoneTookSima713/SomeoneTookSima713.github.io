@@ -1,0 +1,14 @@
+- Bewilligung der Kriegskredite durch sämtliche Parteien im Reichstag
+	- SPD war vorher unter keinen Umständen für Finanzierung des Militärs
+	- **Argumente für die Bewilligung der Kriegskredite durch die SPD-Fraktion:**
+		- Folgen imperialistischer Politik in ganz Europa herbeigeführt durch "Ära des Wettrüstens"
+		- jetzt nicht mehr Entscheidung für oder gegen Krieg, sondern welche Mittel für Verteidigung des Landes nötig
+		- freiheitliche Zukunft des deutschen Volkes steht, bei eventuellem Sieg des russischen Despotismus, auf dem Spiel
+		- Forderung, dem Krieg schnellstmöglich ein Ende zu setzen, deswegen Bewilligung der Kredite
+	- **Währenddessen Karl Liebknecht, Teil der SPD:**
+		- Krieg ist kein deutscher Verteidigungskrieg, man sollte einer kapitalistischen Regierung nicht vertrauen, die geforderten Kredite lediglich für die *Verteidigung* Deutschlands zu verwenden
+		- fordert Frieden ohne Eroberungen
+		- Kredite gegen jeweilige Notstandslage stimmt er zu, aber Kredite für Aufrüstung nicht
+		- lehnt kapitalistische Kriege, Verletzung der belgischen und luxemburgischen Neutralität, Annexionspläne und mögliche Militärdiktatur ab
+- Thronrede Wilhelms II. am 4.8.1914:
+	*Ich keine keine Parteien mehr, ich kenne nur Deutsche.*

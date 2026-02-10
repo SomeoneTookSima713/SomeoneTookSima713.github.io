@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="60mm"
+   viewBox="0 0 100 60"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Nukleotid.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6433448"
+     inkscape:cx="141.1091"
+     inkscape:cy="126.73337"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     height="60mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#00ceff;fill-opacity:1;stroke:none;stroke-width:1.00157"
+       id="path846"
+       inkscape:flatsided="true"
+       sodipodi:sides="5"
+       sodipodi:cx="134.96149"
+       sodipodi:cy="561.90692"
+       sodipodi:r1="103.82463"
+       sodipodi:r2="83.995895"
+       sodipodi:arg1="-0.31779801"
+       sodipodi:arg2="0.31052052"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 233.58718,529.46426 196.29331,645.6802 74.240943,646.12432 36.102305,530.18286 134.5837,458.08298 Z"
+       transform="matrix(0.10561335,0,0,0.0574106,10.446519,4.8194748)"
+       inkscape:transform-center-x="0.012329996"
+       inkscape:transform-center-y="-0.56281383" />
+    <path
+       style="fill:#fff600;fill-opacity:1;stroke:none;stroke-width:1.00157"
+       id="path1112"
+       sodipodi:type="arc"
+       sodipodi:cx="14.246686"
+       sodipodi:cy="23.154953"
+       sodipodi:rx="4.6352458"
+       sodipodi:ry="4.6352458"
+       sodipodi:start="1.0517406"
+       sodipodi:end="1.0499779"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 16.546048,27.179681 a 4.6352458,4.6352458 0 0 1 -6.323077,-1.723592 4.6352458,4.6352458 0 0 1 1.720807,-6.323836 4.6352458,4.6352458 0 0 1 6.324593,1.718019 4.6352458,4.6352458 0 0 1 -1.715232,6.32535" />
+    <path
+       style="fill:#00ff05;fill-opacity:1;stroke:#000000;stroke-width:0.21539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.011884,31.128129 h 43.044993 l -4.75171,4.75173 4.05293,4.05294 h -42.0667 z"
+       id="path1249" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 14.259404,35.257591 V 27.726076"
+       id="path857" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.116444,35.216335 h 10.12611"
+       id="path859" />
+  </g>
+</svg>
