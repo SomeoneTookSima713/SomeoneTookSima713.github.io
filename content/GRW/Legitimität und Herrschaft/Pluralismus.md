@@ -1,13 +1,6 @@
-```latex {cmd=true hide latex_zoom=5}
-\documentclass[varwidth]{standalone}
-\usepackage{xcolor}
-\color{white}
-\begin{document}
-Legitimität und Herrschaft
-\\
-\end{document}
-```
+# Legitimität und Herrschaft
 ---
+
 
 # Pluralismus
 
