@@ -63,14 +63,24 @@
 
 #### 3. Stetiges und angemessenes Wirtschaftswachstum
 * **Stetigkeit: Vermeidung oder Dämpfung der konjunkturellen Schwankungen von Wachstum und Beschäftigung**
-    * Siehe LB. S. 238
+    * Bruttoinlandsprodukt (BIP): Max für die wirtschaftliche Leistung einer Volkswirtschaft in einem bestimmten Zeitraum
+        * errechnet sich aus dem Wert der im Inland hergestellten Konsumgüter und Dienstleistungen (*Wertschöpfung*)
+        * **Wichtig**: nichts wird mit eingerechnet, was zur Produktion eines anderen Guts/einer anderen Dienstleistung genutzt wird
+        * Änderungsrate des BIP dient als Messgröße für das Wirtschaftswachstum der jew. Volkswirtschaft
+        * → **Wichtigste Größe der volkswirtschaftlichen Gesamtrechnungen**
+    * wenn konjunkturelle Schwankungen zu stark sind und ein kontinuierliches Wirtschaftswachstum oder eine Vollbeschäftigung der Gesellschaft/Erreichung dieser gefährdet sind, kann die Bundesregierung zusätzliche Ausgaben leisten
 * **Angemessenheit: Notwendigkeit eines ausreichenden Wachstums für die Erreichung eines hohen Beschäftigungsgrades in der Zukunft**
-    * Siehe LB. S. 238
+    * Ziel: BIP soll jährlich um mehr als ca. 2% steigen
+
+        $\Delta_{1 \text{ a}}\text{BIP} \geq 2\%$
 
 #### 4. Außenwirtschaftliches Gleichgewicht
 * **Erreichung einer langfristigen ausgeglichenen Zahlungsbilanz (Devisenzuflüsse = Devisenabflüsse)**
     * Devise = Währung, die unter verschiedenen Nationen gehandelt werden kann
         * damit eine Währung auf dem Weltmarkt handelbar ist, muss sie von Gold gedeckt sein (bspw. der Euro, US-Dollar, aber z.B. nicht die dänische Krone)
-    * Siehe LB. S. 241
+    * *"Zahlungsbilanzgleichgewicht"*
+    * in einem Zeitraum vom Ausland empfangene Zahlungseingänge müssen/sollten den ins Ausland geflossenen Zahlungsausgängen entsprechen
+        * Vermögen des Staates sollte sich also insgesamt nicht ändern oder höchstens wachsen (wenn $x$ Ausgaben nach draußen, sollte es auch mind. $x$ Einnahmen nach drinnen geben)
 * **Vermeidung eines dauerhaften Netto-Abflusses inländischer Ressourcen ins Ausland, Vermeidung einer dauerhaft ansteigenden Nettoverschuldung des Inlands gegenüber dem Ausland**
-    * Siehe LB. S. 241
+    * für jede Menge einer Ressource im Inland $R$ sollte gelten: $\Delta R \geq 0$
+    * für das Vermögen $V$ eines Staates sollte gelten: $\Delta V \geq 0$
